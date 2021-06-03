@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Consolations addres'd to a friend upon the death of his excellent and pious consort. Applicable also to a resentment of the death of our late gracious and incomparable Queen. By Theophilus Dorrington.</title>
+            <author>Dorrington, Theophilus, d. 1715.</author>
+         </titleStmt>
+         <extent>Approx. 144 KB of XML-encoded text transcribed from 56 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36364</idno><idno type="EEBO-CITATION">99826652</idno>
+  <idno type="VID">31057</idno>
+  <idno type="EEBO-PROQUEST">2240881247</idno>
+  
+            <idno type="STC">Wing D1935D</idno>
+            <idno type="STC">ESTC R214492</idno>
+            <idno type="PROQUEST">99826652</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826652e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36364)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31057)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1775:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Consolations addres'd to a friend upon the death of his excellent and pious consort. Applicable also to a resentment of the death of our late gracious and incomparable Queen. By Theophilus Dorrington.</title>
+                  <author>Dorrington, Theophilus, d. 1715.</author>
+               </titleStmt>
+               <extent>[2], 107, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Wyat at the Rose in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Consolation --  Early works to 1800.</term>
+               <term type="topical_term">Death --  Early works to 1800.</term>
+               <term type="topical_term">Grief --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31057:1"/>
+            <pb facs="tcp:31057:1"/>
+            <p>
+               <hi>Consolations</hi> Address'd to a FRIEND Upon the DEATH Of his Excellent and Pious CONSORT.</p>
+            <p>Applicable also to a Resentment of the Death of our late Gracious and In<g ref="char:EOLhyphen"/>comparable QUEEN.</p>
+            <p>By <hi>Theophilus Dorrington.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Wyat</hi> at the <hi>Rose</hi> in St. <hi>Paul</hi>'s Church-yard, 1695.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:31057:2"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Carolus Alston, R. P. D.<lb/> Hen. Episc. Lond. àsacris.</signed>
+               <date>Feb. 19.<lb/> 1694/5.</date>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:31057:2"/>
+            <head>THE CONTENTS OF THIS EPISTLE.</head>
+            <p>
+               <list>
+                  <item>THE Passions allowable <hi>p.</hi> 6.</item>
+                  <item>The Necessity of governing the Passions <hi>p.</hi> 12.</item>
+                  <item>Grief for the Death of Relations justi<g ref="char:EOLhyphen"/>fied. <hi>p.</hi> 20.</item>
+                  <item>The Necessity of moderating our Sor<g ref="char:EOLhyphen"/>row <hi>p.</hi> 22.</item>
+                  <item>The Means to moderate our Sorrow. <hi>p.</hi> 23.</item>
+                  <item>Considerations proper to moderate our Sor<g ref="char:EOLhyphen"/>row for the Death of those whom we lov'd. <hi>p.</hi> 41.</item>
+                  <item>The first, That all Men are Mortal <hi>ibid.</hi>
+                  </item>
+                  <item>The Providence of God chuses the Time of every Persons Death <hi>p.</hi> 49.</item>
+                  <item>We should consider the Circumstances of the Death we lament, which may alleviate our Sorrow. <hi>p.</hi> 56.</item>
+                  <pb facs="tcp:31057:3"/>
+                  <item> It should be considered what good things we still enjoy. <hi>p.</hi> 62.</item>
+                  <item>God is always the good Mans Friend p. 69.</item>
+                  <item>Consider the many Miseries and Vexations of this Mortal Life <hi>p.</hi> 81.</item>
+                  <item>Consider the happy State to which good Souls are advanced at their Death <hi>p.</hi> 97.</item>
+                  <item>The departing Soul a Poem <hi>p.</hi> 104.</item>
+               </list>
+            </p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 20. line 5. for <hi>we</hi> read <hi>when,</hi> page 28. line 21. read <hi>Since.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:31057:3"/>
+            <head>
+               <hi>To my Worthy and much Esteemed Friend Mr.</hi> J. T.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>VVHEN it had pleas'd Al<g ref="char:EOLhyphen"/>mighty God to take from you, on the <hi>16th.</hi> of <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> last, your much lov'd and very pious Consort, by that cruel Disease which has lately cost several Nati<g ref="char:EOLhyphen"/>ons so many Tears, for the Loss of another Person, the Glory of her Sex: And when I perceiv'd you greatly distrest with the weighty Affliction, I bethought my self of what the wise Man says, That <hi>a Friend is born for Adversity.</hi> And since I have been often comforted by your Kindness to me, I thought my self oblig'd to try if I could contribute any thing towards your Support and Comfort in this Adversity of yours.</p>
+            <p>While others then express their accepta<g ref="char:EOLhyphen"/>ble Kindness by condoling your Loss, but do therein, perhaps, but cherish and increase your Grief, I shall endeavour, what in me lies, to allay it. And this a very wise Man <hi>(Plut.)</hi> has taught me, is the best and most useful Office in such a case, by these inge<g ref="char:EOLhyphen"/>nious
+<pb n="4" facs="tcp:31057:4"/> Expressions concerning this Matter. When Men see their Neighbour's House on Fire (says he) every one contributes what he can to quench it: But when they see the Mind inflam'd with furious Passion, they bring Fuel to nourish and increase the Flame. When a Man's Eye is in pain, he is not suffered to touch it, tho the Inflamma<g ref="char:EOLhyphen"/>tion provoke him to it; nor will they that are near him meddle with it: But he who is gall's with Grief, sits and exposes his Di<g ref="char:EOLhyphen"/>stemper to every one; and so that which at first seem'd but a slight Itching, or a tri<g ref="char:EOLhyphen"/>vial Smart, by much fretting and provoking, becomes a great, and almost incurable Dis<g ref="char:EOLhyphen"/>ease. As he said to his wise and vertuous Wife, to whom these things were directed, that he knew very well she would arm her self against these Inconveniences; so I can hope the same of you, and am thereby en<g ref="char:EOLhyphen"/>courag'd to contribute what I am able to<g ref="char:EOLhyphen"/>wards your Assistance to do so.</p>
+            <p>And I must confess, that I found it neces<g ref="char:EOLhyphen"/>sary to my self, by such Meditations as these that follow, to relieve my own drooping Mind, deeply afflicted with the inestimable Loss which our unhappy Nation has lately sustan'd, of two glorious publick Persons; For the Sake of whose Piety, and Virtue, and Zeal for the Church, and the Glory of God; and by the means of whose Wisdom and Authority, we hoped to see good and
+<pb n="5" facs="tcp:31057:4"/> happy Days. But of these Persons our World was not worthy, and God has taken them to himself. And since I must be sen<g ref="char:EOLhyphen"/>sible of this Loss, and the Occasion of your excellent Consorts Death has drawn me in to speak my Sense of it too, I think it most proper, while so many endeavour to flatter and feed the publick Grief and mine; to do what I can to moderate and allay it; this Part to be sure I find most Ease in, and per<g ref="char:EOLhyphen"/>haps so may some others too, amongst whom I especially hope Sir that you may be one.</p>
+            <p>May it please God long to preserve and prosper the Light which is yet left us, that our Hopes may yet live too, and that we be not brought into utter Darkness. And when Age shall have translated him late to Heaven, may the Royal Family then afford, and never want, a worthy Successor to fill the Throne of these Kingdoms; A Person good as Guardian Angels, and forgiving; just, to afford the Subject all their due rights; Zealous to maintain and defend the best Church, and in the Practice of the best Re<g ref="char:EOLhyphen"/>ligion in the World; That so Peace and Truth may yet find an Establishment a<g ref="char:EOLhyphen"/>mong us, and may continue and flourish here so long as the Sun and the Moon endure. This Wish I know Sir is very grateful and suitable to you, as it is to all good English<g ref="char:EOLhyphen"/>men, and good Christians among us.</p>
+            <pb n="6" facs="tcp:31057:5"/>
+            <p> That it may please God thus to bless us, I further wish that we may all be just and duly obedient to the good Government which is now over us; and that none may treache<g ref="char:EOLhyphen"/>rously endeavour to take Advantage of the Goodness to undermine the Power of it: And that we may all very seriously practice our holy Religion, according to the wise and pious Establishment of it among us. For it is certainly to be expected, that if we despise these Blessings, and do not make this use of them, God will deprive us of them again; And then will far more terrible and fatal Woes and Miseries befall us, than those which punish'd those Sins in the time of our Fathers; which God of his Infinite Mercy forbid for the Sake of Jesus Christ, and let all the People say, <hi>Amen.</hi>
+            </p>
+            <p>That Sect of Philosophers among the Heathen, who re<g ref="char:EOLhyphen"/>quir'd <note place="margin">The Passions allowable.</note> a total Extinction of all the Passions in Men, as a point of Wisdom, and a means of Happiness, were stiffly oppos'd in this by others of their own time; and have been generally condem<g ref="char:EOLhyphen"/>ned in all Ages since, and, I doubt not, very justly.</p>
+            <p>Among Created Beings, at least, there is not one to which some things are not in their own Nature Good and Agreable, and
+<pb n="7" facs="tcp:31057:5"/> others Adverse and Evil. That is good to all which is preservative of their Nature, and that is Evil which tends to destroy it. And as all things, in this lower World es<g ref="char:EOLhyphen"/>pecially, are liable to change and alter, so there are other things by which that Alter<g ref="char:EOLhyphen"/>ation may be effected. And 'tis the Glory of the divine Wisdom and Power, to pre<g ref="char:EOLhyphen"/>serve and maintain this mutable World, notwithstanding that it is an Aggregate, and Collection of things which are mutable, and that dwell among other things which are capable of being the Causes of their Mutation.</p>
+            <p>This being the general State of things in this World, Mankind are not exempted from it while they abide here. But since we are capable to understand what is Good and what is Evil; what is serviceable to cherish, protect and preserve our Being, and what tends to destroy it; and all understanding Beings are naturally possest with a Desire to preserve themselves: It cannot be but we must proportionably hate that which is Evil and Adverse, and love that which is favourable and good. And then it must be reckon'd natural to us to desire what we apprehend to be Good, if we do not at pre<g ref="char:EOLhyphen"/>sent enjoy it; to hope for it if there be good Probabilities that we may attain it: And to rejoyce and be pleas'd when we do
+<pb n="8" facs="tcp:31057:6"/> attain it. And on the contrary, it must be natural to us to be averse to whatever we apprehend is Evil: To fear it while it threatens and is likely to come upon us: To be grieved and troubled when it befals us, and when we cannot get rid of it. Our Passions, then, are certainly as natural to us as any of our Faculties, and do necessarily follow our Understanding and Will, and our Knowledge of Good and Evil: And as that were certainly a sick Stomach, which should feel no Hunger or craving when it were empty of Food; and that a numm'd and diseased Member, which would feel no Pain when it were burnt or wounded; so it were a Stupidity, and a Disease of the Mind, a State preternatural to it, not to have a suitable Resentment of the Good or Evil that befalls us. It speaks Ignoranec and Folly for a Man to suffer things con<g ref="char:EOLhyphen"/>trary to his Interests without any Trouble or Concern for them; and it is certainly no Happiness to enjoy things in their own Nature good and agreeable to us, without conceiving some Joy, and taking some De<g ref="char:EOLhyphen"/>light therein.</p>
+            <p>And if the Passions are Natural to us, they are neither evil in themselves nor su<g ref="char:EOLhyphen"/>perfluous; as we must needs allow, who know that we have derived our Nature from an Author who is infinitely Wise and
+<pb n="9" facs="tcp:31057:6"/> Good. If they are natural to us, they are not inconsistent with Virtue, or else we must believe that our Nature is uncapable of Virtue. And, then too, Virtue does not consist in the rooting them out, but only in the Government of them. Virtue must chuse the Objects which they regard, and assign the due Measures of acting about them. Fortitude must hinder us from fear<g ref="char:EOLhyphen"/>ing where there is no just Occasion to fear: It suppresses an anxious distracting Fear when an Evil is imminent; which are Ex<g ref="char:EOLhyphen"/>cesses of this Passion; but it does not for<g ref="char:EOLhyphen"/>bid a Cautious and careful Fear, of an evi<g ref="char:EOLhyphen"/>dent Evil which is likely to fall upon us; such as will put us upon an Endeavour to make the best Defence against it that we can. And Patience does not forbid all Sense of the Evils that befal us; but it for<g ref="char:EOLhyphen"/>bids a froward or a dejected Sense of them; an excessive Anger, or excessive Sorrow for them; according to what the Divine Wis<g ref="char:EOLhyphen"/>dom directs in the Case: <hi>My Son, despise not thou the Chastening of the Lord, nor faint when thou art rebuked of him.</hi> The Wisdom of Vertue must direct us to love none but true Goods, and to hate none but real Evils; and to proportion rightly our Love and Hatred to the Merits of the Object, so as to value most the best Goods, and chiefly to dread the most grievous Evils. Yea, fur<g ref="char:EOLhyphen"/>ther,
+<pb n="10" facs="tcp:31057:7"/> it is most certain, that Virtue in ma<g ref="char:EOLhyphen"/>ny Cases does require the Exercise of our Passions. Does not the Love of our Coun<g ref="char:EOLhyphen"/>try require us to wish it Prosperity and Welfare, and to grieve for any great Ca<g ref="char:EOLhyphen"/>lamity that befals it? Were it not the Sa<g ref="char:EOLhyphen"/>vageness of a Wild Beast, to love no one but our selves? And if we love any others, we must be proportionably sensible of their Interests or Harms. Does not Mercy and Goodness require, that we feel Compassion and Pity for those who are in Misery, and that we have some Sympathy with their Grief? All manner of Virtue does require, that we be angry at the contrary Vices, and especially with our selves when we are guil<g ref="char:EOLhyphen"/>ty of them. Our Virtues are often exerci<g ref="char:EOLhyphen"/>sed in the Exercise of our Passions, and can<g ref="char:EOLhyphen"/>not subsist or be without them.</p>
+            <p>And if our Passions are Natural to us, then the utter Extinction of them, if this could be, would destroy somewhat in us of our Nature; but what does in any Measure destroy our Nature, that is evil, and then this cannot be reckon'd to make us happy. To destroy these utterly, were to deprive our selves of the Capacity to take Delight and Pleasure in any good things that we should enjoy; and with the Stoical Indolence, we could have at the best but the Happiness of a Post or a Stone; not the Happiness of a
+<pb n="11" facs="tcp:31057:7"/> Rational Creature, not that of a Man. And if there were really no Happiness in de<g ref="char:EOLhyphen"/>stroying these, then certainly it is not any Point of Wisdom to endeavour and labour after it.</p>
+            <p>Christian Religion, which is a Body of the wisest Precepts, and contains the most perfect Rules of Virtue, and is the surest Guide to Happiness, does allow the Being and Exercise of our Passions. It gives us indeed Directions concerning the Objects of them, and the Measures which we may al<g ref="char:EOLhyphen"/>low: But it does no where forbid all Exer<g ref="char:EOLhyphen"/>cise of them. In those sacred Writings which are the Fountain of it, we sind those condemn'd who are <hi>without Natural Affecti<g ref="char:EOLhyphen"/>on,</hi> among the spiteful and the Proud. And we have such Precepts as these very fre<g ref="char:EOLhyphen"/>quent there: <hi>Set your Affections on things above, not on things on the Earth:</hi> Which does not oblige us to have no Affections at all, but only to employ them chiefly about the Objects that are most worthy of them. It is said, <hi>Be angry and sin not, Let not the Sun go down upon your Wrath;</hi> that is, let not your Anger rise to that Excess, as to car<g ref="char:EOLhyphen"/>ry you to any evil thing; nor let it last so long, as to degenerate into Hatred or Ma<g ref="char:EOLhyphen"/>lice. Yet is Hatred of some things re<g ref="char:EOLhyphen"/>quir'd, as when we are bid to abhor that which is evil. Sorrow for our Faults and
+<pb n="12" facs="tcp:31057:8"/> Sins, is encourag'd with the Promise of Re<g ref="char:EOLhyphen"/>ward; it is said, <hi>Blessed are they that mourn for they shall be comforted.</hi> We are bid to <hi>love our Neighbour as our selves:</hi> Which al<g ref="char:EOLhyphen"/>lows both the Desire of his Welfare, and Delight in it; and also some Grief and Trouble for that which happens to him con<g ref="char:EOLhyphen"/>trary to his Welfare; and Compassion to his Miseries and Calamities. And we are commanded to <hi>Love God with all our Heart, with all our Soul, and with all our Might,</hi> which is certainly most highly due to him, who is the most excellent Being, and the Fountain of all Good. And this requires the agreeing Exercises of other Passions.</p>
+            <p>But while I thus endea<g ref="char:EOLhyphen"/>vour to do right to our Na<g ref="char:EOLhyphen"/>ture, <note place="margin">The Necessity of go<g ref="char:EOLhyphen"/>verning the Passions.</note> in vindicating the Ex<g ref="char:EOLhyphen"/>ercise of our Passions; I must take care that I do no Prejudice to our Virtue and Happiness, by giving Encouragement to a boundless ex<g ref="char:EOLhyphen"/>ercise of them. It must be added therefore that since our Nature is now depraved, and out of Order; these are very apt to exceed their due Bounds, and to transgress the Rules of Reason and Vertue. And as there is no Wisdom, Vertue or Happiness in a total Extinction of them, so neither is any of these consistent with the Abandoning our selves to any of them. When they are
+<pb n="13" facs="tcp:31057:8"/> only Indulg'd and not regulated, they de<g ref="char:EOLhyphen"/>generate into Vices; they will make us guilty of innumerable Follies, and utterly deprive us of our Happiness: Under the Dominion, of Vice and exorbitant Passion, the great and dignified Persons dishonour themselves; the Lovers of Pleasure procure themselves much Torment and Pain; and the covetous condemn themselves to the Miseries of an Eternal Poverty.</p>
+            <p>It sullies and eclypses the Glory of him who is great and dignified, to appear enslav'd to Vice, and habitually subject to inordi<g ref="char:EOLhyphen"/>nate Passions: He that would have others pay him due Reverence, must reverence himself; and maintain his Grandeur, by appearing to have his Mind as much eleva<g ref="char:EOLhyphen"/>ted above the common vulgar Disorders in common Accidents, as his Condition is exalted above theirs. And if he would have others obedient to his Laws, he must himself be obedient to the Laws of Religion and Virtue. For the unruly World, who are always loth to be governed, and are ready to seek Pretences to diminish Autho<g ref="char:EOLhyphen"/>rity, and to with-hold their Obedience, will soon grow jealous that he will not go<g ref="char:EOLhyphen"/>vern them according to Justice and Reason, who does not govern himself so; and so his Authority will grow weak, as his Vices and Passions become strong and predo<g ref="char:EOLhyphen"/>minant.</p>
+            <q>
+               <pb n="14" facs="tcp:31057:9"/>
+               <lg>
+                  <l>He to his Passion Laws must give,</l>
+                  <l>Who would at Fame and Power arrive;</l>
+                  <l>And who would others subject have,</l>
+                  <l>Must not to servile Vice himself enslave.</l>
+               </lg>
+               <lg>
+                  <l>The vicious <hi>Nero,</hi> tho adorn'd</l>
+                  <l>With Empires, Purple Robes and State,</l>
+                  <l>With his own wretched Hands his Fate</l>
+                  <l>Inflicts, by all Men justly loath'd and scorn'd.</l>
+               </lg>
+            </q>
+            <p>All Vices and ungovern'd Passions, are the very painful and shameful Diseases of the Mind, and by Consequence must needs be inconsistent with true Happiness. The Ex<g ref="char:EOLhyphen"/>ercises of them are liable to the just Re<g ref="char:EOLhyphen"/>bukes of our Reason, and commonly meet with them either in the doing or soon after: So they vex a Man with the Pain and Tor<g ref="char:EOLhyphen"/>ment of a wounded Conscience. The being conscious (says the Philosopher) of having done a wicked Action, leaves Stings of Remorse behind it, which like an Ulcer in the Flesh, makes the Mind smart with perpe<g ref="char:EOLhyphen"/>tual Wounds: For Reason (says he) which chases away other Pains, creates Repentance, confounds the Soul with Shame, and puni<g ref="char:EOLhyphen"/>shes it with Torment: And if the Mind be disordered and uneasie, no external Circum<g ref="char:EOLhyphen"/>stances, however abounding with Matter of Delight, and however elevated and glorious they are, can give a Man Content and Tran<g ref="char:EOLhyphen"/>quility.
+<pb n="15" facs="tcp:31057:9"/> As the Philosopher ingeniously teaches us, by admonishing his Friend to re<g ref="char:EOLhyphen"/>member, that a rich embroider'd Slipper cannot ease a Fit of the Gout, nor an Impe<g ref="char:EOLhyphen"/>rial Diadem the Headach.</p>
+            <q>
+               <lg>
+                  <l>The fawning Flatterer, in vain,</l>
+                  <l>Shall strive to sooth the inward smarting Pain,</l>
+                  <l>Of a Mind sick with guilty Fears,</l>
+                  <l>Which from her own deserv'd Rebukes she bears.</l>
+               </lg>
+               <lg>
+                  <l>He who will guilty Pleasures court,</l>
+                  <l>Shall find the pleasing Entertainment short,</l>
+                  <l>And when that's gone he'll further find,</l>
+                  <l>A far more lasting Sting is left behind.</l>
+               </lg>
+               <lg>
+                  <l>Just as th' industrious angry Bee,</l>
+                  <l>Spoil'd of her hoarded wealth injuriously,</l>
+                  <l>Corrects the Rifler of her Hive,</l>
+                  <l>And a smart Sting does with her Honey give.</l>
+               </lg>
+            </q>
+            <p>Ungovern'd Desire after Pleasure, Wealth, or Honour, is like a Hunger ever craving, and a Thirst which can never be satisfied; It gives the wretched Soul no rest; It is an utter Stranger to Content; It sours the Relish of what is possest, through eager Long<g ref="char:EOLhyphen"/>ings after more. The Unhappiness of the Man enslav'd to this Passion, is well exprest by the excellent <hi>Boetius.</hi>
+            </p>
+            <q>
+               <pb n="16" facs="tcp:31057:10"/>
+               <lg>
+                  <l>If Plenty, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rom her teeming Horn,</l>
+                  <l>As many Blessings on the Wretch should pour,</l>
+                  <l>As there are Sands upon the briny Shoar,</l>
+                  <l>Or Stars in Heav'n, before the Gaudy Morn,</l>
+                  <l>In the Triumphal Chariot of the Day,</l>
+                  <l>Appears from far upon the Eastern Way;</l>
+                  <l>Yet would not the unhappy Man</l>
+                  <l>Cease to complain;</l>
+                  <l>But with his clamorous Cries,</l>
+                  <l>He would importune Heaven and pierce the Skies.</l>
+               </lg>
+               <lg>
+                  <l>Altho' his Prayers do reach th' Almighty's Ear,</l>
+                  <l>Tho' with Success he crown his Vows,</l>
+                  <l>Tho Wealth and Honour on him he confer;</l>
+                  <l>Yet Cares his Mind, and Clouds possess his Brows,</l>
+                  <l>He thinks his present Blessings Poor,</l>
+                  <l>And wildly gapes, and ever calls for more.</l>
+                  <l>What Curb, or what Commanding Rein,</l>
+                  <l>Can e're his Wishes within just Bounds restrain!</l>
+                  <l>Since when full Streams of Blessings on him flow,</l>
+                  <l>His Thirst does still increase, and his Desire still grow,</l>
+                  <l>He never can be rich with greatest Store,</l>
+                  <l>Who thinks himself, amidst his Wealth, but poor.</l>
+               </lg>
+            </q>
+            <p>If we have not our Passions at our own Com<g ref="char:EOLhyphen"/>mand, we shall not have the Tranquility of our Minds ever in our own Power; it will be subject to every thing about us, and continually expos'd, and every other Person that will may disturb our Minds. <hi>He that has no Rule over his own Spirit</hi> (says Solomon) <hi>is like a City broken down and with<g ref="char:EOLhyphen"/>out Walls.</hi> Such a Man will be very easily di<g ref="char:EOLhyphen"/>sturb'd,
+<pb n="17" facs="tcp:31057:10"/> and very frequently; they that Hate him, know how whenever they please to hurt, yea to make him hurt him<g ref="char:EOLhyphen"/>self. All our Enjoyments in this World are mutable and perishing; and are of a very uncertain duration and possession; and the ungoverned Mind, then, must needs be often grievously afflicted with their change, and their forsaking of us, or else always with the uneasie Fears and Expectations of it. Our Lot and Fortune in this World is not at our own dispose, nor can we form it according to the Model of our Wishes. We are entirely under the Government of another, who chuses it for us, and disposes of us as he pleases; and he is the Great and Rightful Governour of the World. But what a Folly is it then for us to indulge vehement Desires to obtain that which we want, or to keep that which we have, when we are uncertain whether we shall obtain our Desire or not; And what a rack and torment is a vehement and fierce Desire when disappointed! That indifferency towards all things that are mutable, and that are not in our own Power, which the Divine Wisdom directs us to, is our plain Interest; and that is a Precept of Tranquility, which the Apostle gives us when he says, <hi>The Fashion of this World passes away.</hi> Therefore should <hi>they that have Wives, be as though
+<pb n="18" facs="tcp:31057:11"/> they had none; they that weep, as if they wept not: they that rejoyce, as tho they rejoyced not; and they that buy, as if they possest not.</hi> His meaning is, that our Passions should be but moderately engag'd about all these things; and we should not suffer them to transport us by their changes, either with Joy or Sorrow: The variety and changes of un<g ref="char:EOLhyphen"/>govern'd Passions create us a great deal of discontent and trouble. Now we vehe<g ref="char:EOLhyphen"/>mently desire what we have not, and are tost with restless Fears or Hopes till we en<g ref="char:EOLhyphen"/>joy: When that which we desire is obtain'd, we in a little time as vehemently disdain it. We spend and exhaust our Spirits in ex<g ref="char:EOLhyphen"/>cessive Joy and Transport, and then sink into Melancholy and Sadness. While we dote on what we enjoy, we afflict our selves with Fears of losing it; when our fond Passion is pall'd and grows Cold, as such an one is most apt to do, then is our En<g ref="char:EOLhyphen"/>joyment a Burden, and our Pleasure a Drudgery; and we can never be contented till we are deliver'd from it. Thus restless, uneasie, and always unhappy is the foolish ungovern'd Mind.</p>
+            <q>
+               <l>That well-poiz'd Soul who in a settled state</l>
+               <l>Can triumph over his uncertain Fate:</l>
+               <l>Who unconcern'd Fortune in Smiles View,</l>
+               <l>Or fearless can behold her clouded Brow;</l>
+               <l>No raging Sea shall move him, nor prevail,</l>
+               <l>Against his Peace, though the proud Billows swell;</l>
+               <pb n="19" facs="tcp:31057:11"/>
+               <l>
+                  <hi>Though black Vesuvio, too, with them conspire,</hi>
+               </l>
+               <l>And vomit his Auxiliary Fire:</l>
+               <l>Tho hovering Clouds their fiercest Thunders weild,</l>
+               <l>To which stout Oaks, hard Rocks, and Tow'rs must</l>
+               <l>He who nor fears, nor hopes for any thing, yield.</l>
+               <l>Disarms the greatest Tyrants Rage, and is himself a King.</l>
+               <l>But that weak Wretch, who his unguarded Breast,</l>
+               <l>To the Assaults of Passion does expose;</l>
+               <l>Can never know the Happiness of Rest,</l>
+               <l>Nor e'er himself enjoy in calm Repose.</l>
+               <l>Poor Mortal! he within himself shall feel,</l>
+               <l>Storms, Thunders, Fires, and Racks, and every painful Ill.</l>
+            </q>
+            <p>These things evidently demonstrate the absolute Necessity of governing our Passi<g ref="char:EOLhyphen"/>ons, and bringing them into Subjection to the Laws of Religion and Virtue. Though we are not bound to destroy, yet neither may we pamper and indulge them. We must watch them with a Jealous Eye, to pre<g ref="char:EOLhyphen"/>vent their Extravagancies; we must ve<g ref="char:EOLhyphen"/>ry sparingly administer what is Food or Fuel to them, lest they get more Strength than we can master. We must always re<g ref="char:EOLhyphen"/>member they are good Servants but bad Ma<g ref="char:EOLhyphen"/>sters: They may be useful to us in their Exercises while we command them, but they will torment, hurt and disparage us, if we let them reign over us. They are like Rebellious and Wicked Subjects in a Common-wealth, who, though very apt to complain of Rigour and hard Usage, and
+<pb n="20" facs="tcp:31057:12"/> Arbitrary Proceeding in the Rulers while they are subject; yet if they can lift them<g ref="char:EOLhyphen"/>selves into the Government, they become the most Rigorous and Arbitrary Rulers, and the fiercest Tyrants that are. We these are supprest and kept in their right Place and Order, all will be at Peace; but when they have too much Power, they put all things into Trouble and Confusion.</p>
+            <p>I may come now to apply what has been <note place="margin">Grief for the Death of Relations justified.</note> said of the Affections in general, to the Passion of Sorrow in particular. Though this in<g ref="char:EOLhyphen"/>deed has been most persecuted by Philoso<g ref="char:EOLhyphen"/>phy, yet even this too must be allow'd its Exercise upon a just Occasion. And it must be granted, that the sad Occasion which we commemorate, deserves and will justifie one of the greatest Degrees of it. Love to the Person departed must needs give one a ten<g ref="char:EOLhyphen"/>der Sense of what happens to her in Death; and it must be a Grief to consider the Pain and Inconveniences of Sickness; the Spoil and Havock which Death makes; how it blasts that Beauty, and eclipses all those pleasing Charms which were once a Man's chief Delight. To consider, that she is by Death taken from all the pleasant things that she enjoy'd, and took Delight in here;
+<pb n="21" facs="tcp:31057:12"/> and must needs be shut into a Grave, and left to Worms and Corruption.</p>
+            <p>Love to others will allow us to grieve in such a Case as this, for the Loss which they have sustained. When we consider how useful, how necessary she was to the World in the Place she held; what a Faithful and Pru<g ref="char:EOLhyphen"/>dent Friend some have lost; what a Kind and Good Neighbour others; what a Chari<g ref="char:EOLhyphen"/>table Person the Poor; what a Skilful and Careful Helper the Sick have lost: What an Honourable Member the Church, and what an Excellent Example and a Promoter of Pi<g ref="char:EOLhyphen"/>ety and Virtue the World is deprived of in the Death of our Friend. We find the Blessed Jesus himself weeping at the Death of <hi>Lazarus,</hi> in Compassion and Sympathy with those who lamented the Death of their Friend <hi>(John</hi> 11.)</p>
+            <p>And in the last place, the Sense of a Man's own Loss in the Person deceased, may just<g ref="char:EOLhyphen"/>ly give him some Sorrow for her Death, as a great Affliction to himself: When he is herein deprived of a Pleasing Companion, a Faithful Friend, a very Tender Helper, one that was sensible of all things that hap<g ref="char:EOLhyphen"/>pen'd to him, and bore a Part in his Griefs, and encreas'd his Joys. One that studied to oblige and please him, and that took kind<g ref="char:EOLhyphen"/>ly and was always pleas'd with his Endea<g ref="char:EOLhyphen"/>vours to oblige and please her. One that
+<pb n="22" facs="tcp:31057:13"/> Pleasantly received all the Expressions of his Love, and requited them with the best Re<g ref="char:EOLhyphen"/>turns which she could make of her own: One that set her self in her Place, to pro<g ref="char:EOLhyphen"/>mote the Interests, the Honour of her Hus<g ref="char:EOLhyphen"/>band, and to soften the Toils and Cares of Life to him. Such a Consort, it is a great Blessing of Heaven for a Man to enjoy, and a great Affliction to lose: And such a Loss he may certainly be allow'd to attend with a very passionate Resentment. As Philoso<g ref="char:EOLhyphen"/>phy would forbid this in vain, so Christian Religion justly allows us a moderate Grief for the Death of Excellent Persons, and those that are peculiarly dear to us.</p>
+            <p>But whatever the Person Deceased was in <note place="margin">The Necessity of mo<g ref="char:EOLhyphen"/>derating our Sorrow.</note> her self, to others, or to me (a Man should say to himself) there is nothing will justifie such a Degree of Grief as shall rob me of my Virtue, or disparage my Religion, or as will hurt me in my Health or my Affairs. It is not at all fitting or reasonable that my having lost the Use and Comfort of her Wisdom and Virtue, should make me lose my own too; or, that because I now want her Help in my Affairs, I should therefore neglect them my self. I should rather now excite all that is within me, because I have
+<pb n="23" facs="tcp:31057:13"/> no one now to rely upon but my self. A Man should say to himself then, though I may grieve on such an Occasion, yet I may not abandon my self to Sorrow, I must command and regulate my Grief, and en<g ref="char:EOLhyphen"/>deavour to keep it from Excess. It must not be only indulg'd and cherish'd lest it destroy me; and do become, as it may, a heavier burden, and a greater Affliction than that which I lament. Sorrow should be regarded as a weak effeminate Passion, and be left to Women or Children, or Child<g ref="char:EOLhyphen"/>ish low spirited Men; as unfit to be allow'd in a great Spirit, or a wise Man, to a great degree: And if such an one be surprised and transported at the first Assault beyond a Decorum on a great Occasion, and when Virtue it self may be said to betray him in<g ref="char:EOLhyphen"/>to it, and require a great Resentment; yet he ought not to suffer the feeble Passion long to maintain its Tyranny. He must not let it alone in its Excess, but endeavour to Curb it, and recover himself as soon as he can. He must not endure a Thought, that this shall be the setled Habit and State of his Mind: This were to lose his Virtue, and his Peace, to bind a needless heavy Burden upon himself; and to do more to<g ref="char:EOLhyphen"/>wards his own Affliction, than the Loss he sustains could do. And certainly 'tis very foolish, that a Man should resolve to Afflict
+<pb n="24" facs="tcp:31057:14"/> himself more, because the Providence of God has afflicted him much; or that because his Burden is heavy, he should make it heavier.</p>
+            <p>An excessive Sorrow proceeds from a false and deprav'd Notion of the thing which is lost, which is a disparagement to him that is in Reputation for Wisdom: When this is setled and abiding, it shews the fond Heart was extreamly set upon the feeble and mutable Good; that mighty Expectations of great and long Happiness were built upon the Enjoyment of it: That the wretched Man did not consider the true Nature of the thing, but doted on a mortal Being, with an Affection intended to be Immortal. He indeed when he was first join'd to his lost Friend, spoke of being parted from her by Death, as that which was to be ex<g ref="char:EOLhyphen"/>pected, but forgot it again: It is excellent Advice to this purpose, which the Philosopher gives <hi>(Epict. cap.</hi> 8.) of every thing that De<g ref="char:EOLhyphen"/>lights you, or serves to your use, be sure to consider the Nature, and remember what sort of thing it is: If you are fond of a curious Glass, always remember it is but a Glass; and then when that is broken, you will not break your Peace for it: If it be a Child, or a Wife you greatly Love, then remember, 'tis a mortal Creature; so you will not be kill'd with Grief your self when such an one dies.</p>
+            <pb n="25" facs="tcp:31057:14"/>
+            <p> Wisdom requires the due proportion of our Affections, and that they be suitable to the Worth of the Object; and Men first transgress the Laws of that in their Love, in their Delight, and Joy while they possess; and then they do so again in their Sorrow when they lose.</p>
+            <p>And if it be unfit for a Wise Man to har<g ref="char:EOLhyphen"/>bour and cherish an immoderate Sorrow upon any occasion, it is much rather so to one that bears the glorious Name of a Christian. He pretends to be a follower of Jesus, the Captain of our Salvation, who was made perfect through Sufferings: Who endur'd with Invincible Patience ma<g ref="char:EOLhyphen"/>ny Evils and Afflictions, and has left us an Example that we should follow his Steps. Who has said, <hi>He that will be my Disciple, let him deny himself, and take up his Cross, and follow me.</hi> If a Man's Mind be dejected with Grief for his Affliction, he does not bear his Cross, but sinks and fails under it. Let us say then to our selves, Shall I pretend to be a Disciple of Jesus, and not learn of him? Or do I give him the Honour of a Master when I do not obey his Pre<g ref="char:EOLhyphen"/>cepts? And did not the holy, innocent Jesus, meet with much Affliction in this World? How then can I expect to escape it? Man is born to Trouble: This present
+<pb n="26" facs="tcp:31057:15"/> State is cursed by reason of Sin; and in<g ref="char:EOLhyphen"/>numerable Evils surround us all: The larger our Possessions are, the more vexations we are liable to, because we have the more to lose. We must be contented, then, to bear a share in the common Fate; and may the more reasonably bear it with Patience, because all Calamity and Affliction was brought into the World by Sin; and be<g ref="char:EOLhyphen"/>cause even Jesus himself has born it pati<g ref="char:EOLhyphen"/>ently, and requires us to do so too. Say then as a devout Person to himself:</p>
+            <q>
+               <lg>
+                  <l>Shall I expect an easie Life,</l>
+                  <l>With Plenty stor'd, and free from Strife;</l>
+                  <l>When, dearest Lord, thy Days and Nights</l>
+                  <l>Were past in Poverty and Fights?</l>
+               </lg>
+               <lg>
+                  <l>Shall I require a gentle Death,</l>
+                  <l>Just singing out an aged Breath;</l>
+                  <l>When cruel Tortures from thee tore</l>
+                  <l>Thy blessed Soul, all drown'd in Gore?</l>
+               </lg>
+               <lg>
+                  <l>Oh no! our Christian Sacrifice</l>
+                  <l>Oft acting in a sweet disguise,</l>
+                  <l>My Saviour's Passion o'er again,</l>
+                  <l>Must all such fond Conceits restrain.</l>
+               </lg>
+               <lg>
+                  <l>This must keep lively in my Mind,</l>
+                  <l>How I ought still to be resign'd:</l>
+                  <l>This humble Pattern must destroy</l>
+                  <l>All my immoderate Grief and Joy.</l>
+               </lg>
+               <bibl>Ref. Devot.</bibl>
+            </q>
+            <pb n="27" facs="tcp:31057:15"/>
+            <p> We have a constant Memorial of our Sa<g ref="char:EOLhyphen"/>viour's Sufferings in the Sacrament of his Supper, and we ought to be thereby ani<g ref="char:EOLhyphen"/>mated to patient and courageous Suffering. And we may, to encourage and support our selves, consider that the Time of enduring the Evils of this Life is but short: That if we suffer with Christ, that is, patiently and humbly, we shall hereafter reign with him; and these light Afflictions, which are but for a Moment, shall work for us an Ex<g ref="char:EOLhyphen"/>ceeding and Eternal Weight of Glory.</p>
+            <p>It exceedingly augments our Misery to abandon our selves to Sorrow for any Af<g ref="char:EOLhyphen"/>fliction: This Passion will be a grievous Bur<g ref="char:EOLhyphen"/>den to the Mind, will distract and confound all our Thoughts, and fill us with a very sensible, inward Pain. It has, too, a very Malignant Influence on the Body, and Fa<g ref="char:EOLhyphen"/>tally depresses the Spirits, and destroys a Man's Health. The Wise Man says, <hi>A Merry Heart does good, like a Medicine, but a broken Spirit dries the Bones,</hi> (Prov. 17. 22.) The Passions of Love, Hope, Joy, Chear the Mind, recreate the Body, and main<g ref="char:EOLhyphen"/>tain Health; but Hatred, Fear, Anger, Sadness, contract the Heart, are like a sub<g ref="char:EOLhyphen"/>tle inward Poison. The <hi>Thracian</hi> Physici<g ref="char:EOLhyphen"/>ans are said to have cured some Diseases with Philosophical Discourses: <hi>(Euseb. Ni<g ref="char:EOLhyphen"/>eremb. de Art. Volunt.)</hi> All Physicians pre<g ref="char:EOLhyphen"/>scribe
+<pb n="28" facs="tcp:31057:16"/> a Chearful Mind to all sorts of Pati<g ref="char:EOLhyphen"/>ents. Great is the influence of the Mind upon the Body, in its strong and lasting Passions especially. And by the Inordinacy of this Passion, some have utterly lost the Use of their Reason, some have contracted very Painful and Incurable Diseases, and some it has dispatch'd with a hasty, untime<g ref="char:EOLhyphen"/>ly Death. A Man should say then to him<g ref="char:EOLhyphen"/>self; My extream Sorrow for my deceased Relation, will never be able to bring her back again, but it may hasten me after her: And why should I precipitate a frail, short Life? If Death be a very grievous and evil thing, why should I hasten to it? If it be not so, why should it cost me an exces<g ref="char:EOLhyphen"/>sive Sorrow for that it has overtaken my Friend.</p>
+            <q>
+               <lg>
+                  <l>Why should I entertain sad Thoughts,</l>
+                  <l>Whence nought but Perturbation flows;</l>
+                  <l>Snice they procure not what I wish,</l>
+                  <l>They must not hinder my Repose?</l>
+               </lg>
+               <lg>
+                  <l>I'll try this Remedy to charm,</l>
+                  <l>And keep my Passions calm and still;</l>
+                  <l>I'm nearest Help by Hope in God,</l>
+                  <l>And Resignation to his Will.</l>
+               </lg>
+               <bibl>Psal. 43. Patr.</bibl>
+            </q>
+            <p>It was altogether an Excess of this Passi<g ref="char:EOLhyphen"/>on, which transported the Heathens to cut and disfigure, and abuse themselves when any one died whom they dearly lov'd; and
+<pb n="29" facs="tcp:31057:16"/> it is a barbarous, unreasonable Custom which is still among some of them, that near Relations, and even Slaves and Ser<g ref="char:EOLhyphen"/>vants must die for Company. The wise and good Law of God forbad the Jews to hurt or mangle and disfigure themselves for the Dead <hi>(Lev.</hi> 19. 20. <hi>Deut.</hi> 14. 1.) much less would he allow them to kill themselves. Such cruel Customs the Adversary of Man<g ref="char:EOLhyphen"/>kind may suggest, who is the Author of many of those used among the Heathens: But the God of Love is not for multiplying our Griefs and Calamities: As he does not delight to afflict us, so neither is he pleas'd to see us needlesly afflict our selves. And though this Custom of wounding and abu<g ref="char:EOLhyphen"/>sing themselves, was common among the Heathens; yet we find the Wise and Learn<g ref="char:EOLhyphen"/>ed among them, utterly condemning it. The excellent <hi>Plutarch, (Consolat. to his Wife)</hi> commends his Consort, for that she had not complied with the common and foolish Custom, at the Funeral of a very dear and well beloved Child. They who were present at the Funeral (says he) re<g ref="char:EOLhyphen"/>port, that you neither put on Mourning, nor disfigured your self nor any of your Maids: And a Virtuous Woman (he says) ought not only to preserve her Purity in Riotous Feasts, but also to think with her self, that the Tempests of the Mind, in violent
+<pb n="30" facs="tcp:31057:17"/> Griefs, must be calm'd with Patience. The Exercise of which, Virtue does not Intrench on the Natural Affection which Parents ought to have for their Children; but only opposes and prevents the disorderly and ir<g ref="char:EOLhyphen"/>regular Passions of the Mind. And he af<g ref="char:EOLhyphen"/>terwards sharply condemns them who did torment and punish themselves in such Cases.</p>
+            <p>This Passion, if indulged, settles in the Mind a sullen Habit of Melancholy and Dis<g ref="char:EOLhyphen"/>content. A Temper of Mind uneasie to its self, and uncomfortable to all about a Man: It will make him froward, and impatient, hard to be pleas'd, apt to take things amiss from God and Men. Either in a dull Si<g ref="char:EOLhyphen"/>lence, he sits tormenting himself with vain, but painful Thoughts; or he torments his Company with his passionate Complaints. He falls out with every thing else as well as with himself; disdains all the Pleasures and Enjoyments of his Life. This Inconveni<g ref="char:EOLhyphen"/>ence, says the same Philosopher <hi>(ib.)</hi> condemning it, is accompanied with a Neg<g ref="char:EOLhyphen"/>lect of the Body, a Carelesness of Anointing and Bathing, with whatsoever else relates to the Elegancy of Humane Life. It so Enervates the Mind that, quite dejected and beset with Grief, the Poor Wretch dares not be merry, or see the Light, or to Eat and Drink in Company.</p>
+            <pb n="31" facs="tcp:31057:17"/>
+            <p> It will so dis-spirit a Man, that he can un<g ref="char:EOLhyphen"/>dertake nothing, but with a heavy Listles<g ref="char:EOLhyphen"/>ness, he may come to neglect his most im<g ref="char:EOLhyphen"/>portant Affairs, and then to one Loss su<g ref="char:EOLhyphen"/>stain'd, he pulls upon himself many more, and will, in a little Time, it may be, have more Reason to lament his excessive Grief, than he had to lament the Occasion of it. It tends to make a Man useless and unprofita<g ref="char:EOLhyphen"/>ble in his Place; and so, while Death has depriv'd his Neighbours and Relations of the Usefulness and Comfort of his de<g ref="char:EOLhyphen"/>ceased Consort: His Sorrow does in a man<g ref="char:EOLhyphen"/>ner deprive them of him too.</p>
+            <p>But the most fatal Mischief of all, and yet a common Effect of an indulg'd and im<g ref="char:EOLhyphen"/>moderate Sorrow, is, that it damps and weakens the Love of God, and cramps all the Exercises of that. His Devotions are distracted, are dull, and either neglected, or performed without that incomparable Pleasure and Delight which they might af<g ref="char:EOLhyphen"/>ford him: His angry and fretful Thoughts at the Dispensations of Divine Providence, hinder him from all Delight in God; and thus, because he has lost the Communion of a lov'd Creature, he loses too the more pleasant Communion of God; and because he does no longer enjoy his Earthly Friend, he can take no Delight in his Heavenly one; the Loss of that which he could not always
+<pb n="32" facs="tcp:31057:18"/> enjoy here, loses him, through his own Default, the Felicity which he might al<g ref="char:EOLhyphen"/>ways enjoy.</p>
+            <p>So much Reason there is, that no Man should indulge this Passion, or abandon himself to it. The greatest Grief we can entertain, will never mend our Condition, but a great Grief will certainly make it still worse. Especially, should we take care that it may never destroy our Hope and Trust in the Gracious, Ever-living God. Let the excellent Temper of the Psalmist prescribe to us, in all Afflictions, which he expresses in <hi>Psal.</hi> 86.</p>
+            <q>
+               <lg>
+                  <l>Lord, bow thine Ear to my Requests,</l>
+                  <l>Tho Poor, and in the Dust;</l>
+                  <l>O save my righteous Soul, for Lord,</l>
+                  <l>In thee alone I trust.</l>
+               </lg>
+               <lg>
+                  <l>Be merciful to me, O God,</l>
+                  <l>And hear my Mournful Voice;</l>
+                  <l>Daily my Soul to thee ascends,</l>
+                  <l>Oh, make it to rejoyce.</l>
+               </lg>
+               <lg>
+                  <l>Thou, Lord, art gracious and good,</l>
+                  <l>To pardon Sins enclin'd:</l>
+                  <l>And all that humbly thee implore,</l>
+                  <l>Shall plenteous Mercy find.</l>
+               </lg>
+               <lg>
+                  <pb n="33" facs="tcp:31057:18"/>
+                  <l>To thee I call in my Distress,</l>
+                  <l>In hope thou wilt attend;</l>
+                  <l>On thee with Patience wait till thou</l>
+                  <l>A Gracious Answer send.</l>
+               </lg>
+               <bibl>Patr. Translat.</bibl>
+            </q>
+            <p>And if upon these Accounts the Sorrowful Person does re<g ref="char:EOLhyphen"/>solve <note place="margin">The Means to Moderate our Sorrow.</note> to Curb and Govern his Passion, that he may not be subject to a cause of so much Misery and Sin: He must to this purpose speedily, and without any delay, set himself about it; such a Disposition of Mind cannot be too soon removed: And besides, It will be the easier done, if he goes about it before it is settled in his Mind, and be confirm'd into an Habit of Discontent and Melancholy. In this mutable State of things we shall have frequent occasion for Sorrow; and if a Man indulges this Passion, and lets it stay as long as it will with him, the Re<g ref="char:EOLhyphen"/>sentment of one Affliction will be very likely to last till our Sorrow is renew'd by another: But what a Miserable Life would such a Man condemn himself to, who would have no lucid or chearful Intervals of Life.</p>
+            <p>And when a Man has brought himself to this Wise and Necessary Resolution, that he will divorce himself without delay, from
+<pb n="34" facs="tcp:31057:19"/> a Companion so Mischievous and Trouble<g ref="char:EOLhyphen"/>some, he must deny himself the Musing alone, and in Sad Silence upon his Afflicti<g ref="char:EOLhyphen"/>on, and must not let his Thoughts dwell upon the Aggravations of it. The Sick Mind, if neglected, will suggest every thing that may be an Aggravation of our Loss, and entertain it self only with such Thoughts, and so feed its Distemper there<g ref="char:EOLhyphen"/>by: Just as a vitiated Appetite makes Peo<g ref="char:EOLhyphen"/>ple long for and most pleased with that which is Unwholsome Food, and tends to continue or increase the Disease. But espe<g ref="char:EOLhyphen"/>cially must this sort of Entertainment be avoided, because the Mind, when troubled, is apt to afflict it self with Imaginary Ag<g ref="char:EOLhyphen"/>gravations of that which troubles it: And will sometimes oppress the dejected Spirits with the uneasie Fears of Consequences that cannot, or are very unlikely to come to pass. We do sometimes find more trou<g ref="char:EOLhyphen"/>ble in the Opinion that we have of an Evil, than we ever find in the Effects of it; but this is a great Folly for a Man thus to tor<g ref="char:EOLhyphen"/>ment himself. It is an Unkindness to my self, and an Injustice to the Providence of God, to impute more Evil to any Dispen<g ref="char:EOLhyphen"/>sation than it really has. A Man should think with himself thus, Either this Loss which I now sustain, is a very great Affii<g ref="char:EOLhyphen"/>ction in it self, or it is not so: If it be a
+<pb n="35" facs="tcp:31057:19"/> very great one, I ought not to add to it the Inconveniences and Mischiefs of an Ex<g ref="char:EOLhyphen"/>cessive Sorrow for it; nor do I wisely, to increase the weight of it by Imaginary and Industrious Aggravations. If in it self this Loss has no great Evil in it, it does not de<g ref="char:EOLhyphen"/>serve to be attended with a Solemn and Great Grief and Trouble.</p>
+            <p>Now the better to divert the Mind from such wounding and aggravating Thoughts, a Man must diligently apply himself to the Duties and Business which the Provi<g ref="char:EOLhyphen"/>dence of God has given him: And it is a happy thing, in such a case, to have some necessary Business which does require our immediate Care and Application. Thus a Man, having lost the Partner of his Cares, may prevent or cure the more grievous Load of an Excessive Sorrow, by taking now all those Cares upon himself; just as a Viper does afford an Antidote. History affords us many Instances of great and wise Men, who have taken such a course as this to moderate their Sorrows for the Death of those that were Dear to them. <hi>Anaxa<g ref="char:EOLhyphen"/>goras</hi> was in his School discoursing to his Auditors concerning the Causes of Natural things; at the same time a Messenger comes to him, and relates the Death of his Son: He interrupts his Discourse with this Sentence, I knew that I had begotten
+<pb n="36" facs="tcp:31057:20"/> a Mortal Child. And having said this, he went on in his Discourse. <hi>Pericles</hi> had lost two Sons, very Delightful young Men, within the space of nine days; he, instead of giving himself up to Lamentations and Grief, puts a Garland upon his Head, Cloaths himself in White, as was the Cu<g ref="char:EOLhyphen"/>stom of Orators when they spoke in pu<g ref="char:EOLhyphen"/>blick, assembles the People to the usual place, and there recommended to them such Matters as were Important to the Common-wealth, and perswaded them to a necessary War. In like manner the Royal <hi>David,</hi> who was a greater Prince than <hi>Pe<g ref="char:EOLhyphen"/>ricles,</hi> and a greater Philosopher than <hi>Anax<g ref="char:EOLhyphen"/>agoras,</hi> after his Child, which he had been much concerned for, was dead, then he left his Retirement, went first to the House of God to pay his due Devotions to Heaven, and then admitted his Servants, and applied himself to his Affairs. At another time, when a great Passion surpriz'd him upon the Death of <hi>Absolom;</hi> though he could not perswade himself to do so, yet he suf<g ref="char:EOLhyphen"/>fered himself to be prevailed upon by the Faithful though rude Address of his Ser<g ref="char:EOLhyphen"/>vant; and so was inabled to overcome his Sorrow. Certainly every Man may be easily convinced of this, that he ought not to suffer a Fond Love to a Relation de<g ref="char:EOLhyphen"/>parted, to prevail with him above his Love
+<pb n="37" facs="tcp:31057:20"/> to God, and his living Relations, and Friends and Neighbours: Therefore he must apply himself with the more earnest<g ref="char:EOLhyphen"/>ness to the Duties of his Place, that he may, as far as he can, make up the Loss which they sustain too in the Person deceased.</p>
+            <p>Again, to prevent or cure an immoderate Sorrow, a Man must give himself leave to use and enjoy moderately the necessary Refreshments of Nature, and the Pleasures of Life. Indeed to think of drowning Sor<g ref="char:EOLhyphen"/>row by intemperate Pleasures, or of divert<g ref="char:EOLhyphen"/>ing it by such as are unlawful, is direct Folly and Madness. Such a Course would only divert it perhaps for a few Moments, so as that it might return again with the greater Force and Fury. This were to give himself more occasion for Sadness and Melancholy, to cure the Effects of that which at present afflicts him: To add the Torments of a guilty Mind to the Afflicti<g ref="char:EOLhyphen"/>ons of his outward Condition: To increase the Displeasure of the Divine Providence, and provoke Almighty God to increase his Punishment. What Cure is this? to run out of one Extream into another; and from Sin in our Sorrow, to transgress in our Delight and Pleasure: Such an one it is, as that of an Ague when the shivering cold Fit is turned into the Feaver of an hot one. But if he takes sufficient care to keep
+<pb n="38" facs="tcp:31057:21"/> himself Innocent, the Sorrowful Person must let himself freely and liberally enjoy the Pleasures and Provisions which God has given him: While he mortifies himself through disdain of the Comforts of Life, he feeds his Sorrow, and lets that increase: He should say to himself, Is it fit for me to be Angry with my self, because I have lost her whom I loved? Was it my fault that she could not live any longer here, when it pleased God to call her away? If it be not my Fault, why should I punish my self for it, by forsaking my necessary Pleasures and Refreshment? The Soul, when it is disordered (says the Philosopher) ought to receive Help from the Vigour of a Healthful Body: For the sharpest Edge of her Grief, is blunted and rebated when the Body is in Tranquility and Ease. But where, from an ill and a mortifying Diet, the Body becomes Hot and Dry, so that it cannot supply the Soul with Commodious and Serene Spirits, but only breaths forth Melancholy Vapours and Exhalations, which perpetually annoy her with Grief and Sadness; there 'tis difficult for a Man, though never so willing and desirous, to re<g ref="char:EOLhyphen"/>cover the Tranquility of his Mind, after it has been disturbed with Evil Affections.</p>
+            <p>Further, He that would prevent or cure an Immoderate Sorrow, must study for such
+<pb n="39" facs="tcp:31057:21"/> Considerations as are proper to alleviate his Case; or must be willing to have such sug<g ref="char:EOLhyphen"/>gested to him by his Friends: As a Man would be willing to find out, or be directed to a Remedy which would prevent or cure a Mortal and Painful Disease of his Body. And when such Considerations are found out or presented to him, he must meditate on them much, and so use and apply the Remedy. Instead of vexing Thoughts at the Intervals of his Business, he must en<g ref="char:EOLhyphen"/>tertain himself with these; Reason was given us to be the Guide and Conductor of our Lives; to keep off Evils, or to miti<g ref="char:EOLhyphen"/>gate them if we can, or to Comfort and Support us under them, and to prevent the Folly and Extravagancies of our Passions. We must set it then to its Office in this case, and furnish it with fit Weapons to tame and subdue this shameful, uneasie and mischievous Passion.</p>
+            <p>And because in all our Ways and Under<g ref="char:EOLhyphen"/>takings, we ought to acknowledge our Sufficiency to be only from God, and all our good Success to depend upon his Bles<g ref="char:EOLhyphen"/>sing, we must therefore in this endeavour, as well as in all others implore, his Assistance, by Earnest and Persevering Prayer. We must beg of him some way to mitigate our Affliction, to remove it by repairing the loss we sustain; or to give us the necessary
+<pb n="40" facs="tcp:31057:22"/> Assistance to bear it patiently. We have an High Priest, our Advocate in Heaven, who is touch'd with a Feeling of our Infir<g ref="char:EOLhyphen"/>mities, and does compassionate our Griefs; who having Suffered himself, and having been Tempted, we are told he is ready to Succor those that are Tempted: He, if we address our selves in his Name, will afford us his Powerful Patronage; and we cannot fail, for his sake, to obtain in due time, and when perhaps our Patience is well tried, the Relief and Mercy which we need: And while we wait on God for his Mercy, we must not be in haste to obtain it, but resign our selves to him; and though he does not think fit to relieve us immediately, we must still wait on him, and continue our Trust in him. And this the Royal Psalmist recom<g ref="char:EOLhyphen"/>mends to us by his Practice, and by the Happy Event of it to himself, <hi>Psal.</hi> 40.</p>
+            <q>
+               <lg>
+                  <l>'Tis good with Patience to attend,</l>
+                  <l>And on the Lord rely;</l>
+                  <l>When other Succors fail'd, to him</l>
+                  <l>I pray'd, who heard my Cry.</l>
+               </lg>
+               <lg>
+                  <l>I that in Misery was plung'd,</l>
+                  <l>Surrounded with Despair,</l>
+                  <l>Am safely plac'd above my Fears,</l>
+                  <l>And firm my Goings are.</l>
+               </lg>
+               <lg>
+                  <pb n="41" facs="tcp:31057:22"/>
+                  <l>And now I'll chearful Praises sing,</l>
+                  <l>To God that set me free;</l>
+                  <l>While this thy Goodness doth invite</l>
+                  <l>Others to trust in thee.</l>
+               </lg>
+               <bibl>Patr. Transla</bibl>
+            </q>
+            <p>Having thus made Way for them, I come <note place="margin">Considerations pro<g ref="char:EOLhyphen"/>per to moderate our Grief for the Death of those whom we lov'd.</note> now to propose such Considerations as may be proper to moderate our Sorrow for the Death of those whom we love. And to make the Arguments which they afford to this Purpose, the more ready to be applied to himself, I shall ex<g ref="char:EOLhyphen"/>press them commonly in the first Person, and suppose him that reads, arguing with himself upon them, as I desire he should do.</p>
+            <p n="1">1. All Men are Mor<g ref="char:EOLhyphen"/>tal: It is the common <note place="margin">The first, That all Men are Mortal.</note> Doom, Dust thou art, and unto Dust shalt thou return. It belongs to our very Con<g ref="char:EOLhyphen"/>stitution, to be Iiable to Death: Our Bo<g ref="char:EOLhyphen"/>dies are made up of a changable Mass; as they Naturally grow, so they are by Na<g ref="char:EOLhyphen"/>ture, liable to fade and decay. 'Tis true, our kind Creator did not intend us for the Dissolution of Death, when he first crea<g ref="char:EOLhyphen"/>ted us, but offer'd us the Favour of Immor<g ref="char:EOLhyphen"/>tality
+<pb n="42" facs="tcp:31057:23"/> upon an easie and just Condition. And if our first Parents had perform'd that Condition, they should never have seen Death, but have been translated with<g ref="char:EOLhyphen"/>out Death, after a Time, to a better State. And all their Posterity after them, if they also would have observ'd, that Condition should have been Immortal too. But alas, by one Man, even our first Parent, Sin en<g ref="char:EOLhyphen"/>tred into the World, and Death by Sin; and Sin spreading from him over all the Hu<g ref="char:EOLhyphen"/>mane Nature, Death follows it, and tri<g ref="char:EOLhyphen"/>umphs over all likewise. The great God then has done us no Injury, in that he has condemn'd us all to die: It is but what we have deserv'd and pull'd upon our selves. We are by Nature Mortal Creatures, or liable to die, and he leaves us in that Mor<g ref="char:EOLhyphen"/>tal State, and has determin'd we shall die upon a reasonable and just Provocation: And to do thus, is not to deal either hardly or unjustly with us. <hi>(Dean of St.</hi> Paul<hi>'s, his Discourse on Death.</hi> Chap. 2. Sect. 1.) nor is it any Diminution of the Kindness or Power of the Redeemer's Love, that we are still subject to this Condemnation: For as the Case is with our present Life, it were a Punishment to live for ever here, amidst Groans and Pains, and Griefs and Mise<g ref="char:EOLhyphen"/>ries: To be always confin'd to this wretch<g ref="char:EOLhyphen"/>ed and vile Body. It is a Kindness to be
+<pb n="43" facs="tcp:31057:23"/> translated hence, and for the Soul to be set at Liberty from such a Body which is a Bur<g ref="char:EOLhyphen"/>den and Hindrance to all her Noblest Opera<g ref="char:EOLhyphen"/>tions: And she thereby exerts her highest Powers freely, and enjoys more Pleasure by Consequence, than she can do here. And the Kindness of the Redeemer to Good Men, will be abundantly shown when he does, as he has promis'd, raise their Bodies again at the last Day, with all the glorious Advantages which his own Glorified Body is now invested with. 'Tis true, the Good Man might, if it pleased God, be transla<g ref="char:EOLhyphen"/>ted to Heaven without dying, as <hi>Enoch</hi> and <hi>Elijah</hi> were; and as they shall be who shall be found alive at the the last Day upon the Earth, suffering only such a sudden, and perhaps an easie Change as shall fit their Bo<g ref="char:EOLhyphen"/>dies for the Heavenly State. But if it were so, this would not be much Ease to our Grief, because still their Departure might trouble us, and our Loss of their Company and Assistance. And if it pleases God still, that the common Way of our leaving this World, be by our Dissolution, we have nothing that we may say against it. But this we must yield in general, that it must be wise and just, because he appoints it. And we may acquiesce in such a Rea<g ref="char:EOLhyphen"/>son for it as this, That the Wisdom and Ju<g ref="char:EOLhyphen"/>stice of God thinks fit to leave a standing
+<pb n="44" facs="tcp:31057:24"/> Ignominy upon the Humane Nature, to be, to all Ages, a Token of his Displeasure against the Wickedness of the World; and to awe and affright Men from Sin, by that which is most terrible to Sense and Nature. And this is fit to have such an Effect, though to avoid Sin, will not exempt us from Death, because he has assured us, that if we forsake our Sins and live well, we shall be recovered from Death to an Im<g ref="char:EOLhyphen"/>mortal Life and Happiness, even that which we were originally designed for.</p>
+            <p>Let this then be considered and impro<g ref="char:EOLhyphen"/>ved as far as it may be, to comfort us in the Death of those who are excellent and good Persons, and who are dear to us, That 'tis appointed for all Men once to die, and there is none that lives who shall not see Death: All sorts of Men are Mortal, and subject to it, the High and Low, the Rich and the Poor? and the Poor Man is as loth to leave his Cottage, as the Prince to leave his Stately Pallaces. In every Age and Condition of Life, we are all liable to Death, and many die of every Age, as well in full Strength some, when the Breasts are full of Milk, and the Bones with Marrow, as others under the Decays of Life, and when Age has withered and dried them. Neither can Wisdom or Sa<g ref="char:EOLhyphen"/>cred Piety exempt any from this common
+<pb n="45" facs="tcp:31057:24"/> Necessity, as the Royal Psalmist reminds us, <hi>Psal.</hi> 49.</p>
+            <q>
+               <lg>
+                  <l>Vain Men applaud their Stores, yet none,</l>
+                  <l>His Brother can from dying save;</l>
+                  <l>Lifes Purchase is too great, no Wealth</l>
+                  <l>Can buy our Freedom from the Grave.</l>
+               </lg>
+               <lg>
+                  <l>The Ashes of the Wise, and Good,</l>
+                  <l>With Fools together mingled lie;</l>
+                  <l>The Rich, tho' loth to go, must leave</l>
+                  <l>This World with all their Wealth, and die.</l>
+               </lg>
+               <bibl>Ib.</bibl>
+            </q>
+            <p>But since this is so, 'tis utterly vain and absurd, that I should perplex my self, be<g ref="char:EOLhyphen"/>cause Death is happen'd to a mortal Crea<g ref="char:EOLhyphen"/>ture: Should I trouble my self because a Spark flies upward, or a Stone falls down<g ref="char:EOLhyphen"/>ward, or that Fire burns. Events will come to pass, without a Miracle, according to the Nature of Things; and all my Con<g ref="char:EOLhyphen"/>cern will not prevent it. However, since my loved Friend is Dead, my greatest Sor<g ref="char:EOLhyphen"/>row cannot now prevent her Death, nor recover her: And is it fit that I should tor<g ref="char:EOLhyphen"/>ment my self with a Fatal Necessity? Or is it good Manners in me to Quarrel with a Divine Appointment? Can I be so fool<g ref="char:EOLhyphen"/>ish as to wish, that the Wise Governour of the World would alter the Course of things, and revoke the present Laws of Nature to gratifie me.</p>
+            <pb n="46" facs="tcp:31057:25"/>
+            <p> It may be consider'd, We are all of us not only liable to Death, but actually Dy<g ref="char:EOLhyphen"/>ing while we Live here. Our transitory Life does every moment wast and spend it self, and is continually going away from us. At every Night has Death seized one day more of our Lives: And when we say, so many years we have liv'd, we might say so many years are Dead with us, so many are past and gone for ever. Why should it then be an occasion of immoderate Sorrow, that my Friend is now Dead, when I troubled my self but little, for that she was always dy<g ref="char:EOLhyphen"/>ing? I should rather have resented this matter every day a little, than now lament it all at once: From that I might have de<g ref="char:EOLhyphen"/>riv'd some advantage to bear her Depar<g ref="char:EOLhyphen"/>ture, and I had been hardned to endure what is now befallen me; but now to afflict my self for it, is vain and fruitless.</p>
+            <p>I cannot expect that my Friends should be Immortal in this dying Life: The World is not to be always possest by the same In<g ref="char:EOLhyphen"/>habitants. One Generation goes, and ano<g ref="char:EOLhyphen"/>ther comes, <hi>(Eccles.</hi> 1. 4.) A great many Thousands are gone off this mortal Stage before we come upon it: And all that now live here must go away too, and leave their Places to others who shall succeed them: And they too in a little time shall leave them to Others.</p>
+            <q>
+               <pb n="47" facs="tcp:31057:25"/>
+               <l>
+                  <hi>We bear Resemblance to the Autumn Leaves,</hi>
+               </l>
+               <l>Which of their Verdure ev'ry Blast bereaves:</l>
+               <l>The little Beauties are discolour'd found,</l>
+               <l>And the Wind scatters them upon the Ground.</l>
+               <l>But in the Spring, a new Succession's made,</l>
+               <l>Which in the Woods do cast a Gloomy Shade.</l>
+               <l>So one Part of Mankind does always die,</l>
+               <l>Another comes, that Frailty to supply.</l>
+               <bibl>Homer in Plut. Cons.</bibl>
+            </q>
+            <p>Since to die is the common Lot, my Friend has not herein a worse Fate than others of Mankind. She is but gone be<g ref="char:EOLhyphen"/>fore, we must all follow her in the same Track. I have not a harder Fortune than others, in that my Relations are Mortal, for all Mens are so: And if I am depriv'd of so dear a Relation to Day, some others were depriv'd of one as dear Yesterday, and others must suffer such a Loss to Morrow. The Poet makes a Brave Woman harden and fortifie her self with this Consideration.</p>
+            <q>
+               <l>My Sons by Death are ravisht from my Side,</l>
+               <l>And I a Widdow am, who was a Bride:</l>
+               <l>I am not thus selected to be crost,</l>
+               <l>Others their Sons and Husbands too have lost.</l>
+               <bibl>Eurip. in Plut. Cons.</bibl>
+            </q>
+            <p>If all Men are Mortal, then my Enemies are so as well as my Friends. And as the Comfort and Usefulness of the one to me, is of uncertain Duration, and must needs
+<pb n="48" facs="tcp:31057:26"/> come to an end, so the Persecution of the others is in the same State: If my Dear Friend was snatch'd away full of kind Thoughts and Purposes towards Me, my Enemies may be taken too in the midst of their Malicious Projects against me.</p>
+            <p>If all Men are Mortal, then am I so too; I must expect to be called away e'er long from this World: I shall not always, then, stand in need of the Kindness of my Friends here, nor be exposed to the Malice of Enemies; the Time grows every day less and less that I have to stay behind after my Departed Friend: It is very fit then, that my Sorrow for her Departure should grow less and less too, because by this means the time approaches of our Happy Meeting again: I should be very Foolish, if I should greatly trouble my self for what happens to me in a Place where I am not likely to make any long abode: The little time I have to live, tells me I cannot spare much to spend in Grief for the Death of another; I have my own Death to prepare for, which I must do in a far better way of spending my time, than in a Sullen Discontent and Grief. The Follies and Sins attending my Immoderate Sorrow for the Death of my Friend, would render me unfit to meet my own Death with Comfort. I must take care to Live
+<pb n="49" facs="tcp:31057:26"/> well, if I would Die comfortably; and must diligently spend my Life in such Duties as the Providence of God has given me here to perform.</p>
+            <p n="2">2. It may be consi<g ref="char:EOLhyphen"/>dered and improved <note place="margin">The Providence of God thuses the time of every Persons Death.</note> to the moderating of our Grief for the Death of those we Love, That it is the Providence of God which chuses the time of every Per<g ref="char:EOLhyphen"/>sons Death: There is not any thing that comes to pass in this World, without the Operation or Permission of Divine Provi<g ref="char:EOLhyphen"/>dence: Not a Sparrow falls to the Ground without it: Our Saviour tells us <hi>(Matt.</hi> 10. 29.) It is the Just Prerogative of the Creator, to kill and to make alive as he pleases. He who when he pleased gave my Dear Relation Birth, and brought her into the World, when he saw fit removed her from hence again: It was he that gave her to me at my Desire, who has now taken her away again; and what have I to do, but, with that good Man, to say, <hi>The Lord gave, and the Lord hath taken away, Blessed be the Name of the Lord.</hi> There was a large time that I had her not, then I did not Mourn for the want of her, why should I do it now? Is it worse with me now than it was then? If I say so, I must say it had
+<pb n="50" facs="tcp:31057:27"/> been better I had never had her; and then I accuse the Providence of God, as doing me a Diskindness in that which I once thought a mighty Favour: And at this rate it would be hard even for God himself to please my various Mind. If I do not accustom my self to submit and be con<g ref="char:EOLhyphen"/>tented with every thing that he allots me, it will be a great Hazard that I shall not be contented with any thing.</p>
+            <p>If it pleases God to take away from me any Comfort of this Life, which he some<g ref="char:EOLhyphen"/>time lent, I have no right to blame nor be angry with him for this; he does herein what he will but with that which is his own; my Enjoyments are more his than mine, even while I have them; they are but lent to me, and I am a very Ungrateful and Rude Creditor if I quarrel with him who comes to demand his Loan: I was bound to be thankful to him while I enjoy'd the Comfort and Benefit of it, this I can easily grant: But then I must yield that I am still bound to be Thankful for it; for though I have not that Benefit now, yet I had it, and thereby I remain Eternally obliged: I ought to be thankful for that he lent me his Gift so long, and did not recall it sooner. If I Murmur and Repine at God's Disposal of his own, I oppose my Will to his; and would have the Government of the World
+<pb n="51" facs="tcp:31057:27"/> out of his Hands, at least so far as concerns me and my Friends: Which doubtless is a very Foolish Wish, as it is a Vain one; and would be but Unhappy to me if I could ob<g ref="char:EOLhyphen"/>tain it. Even the Light of Nature sug<g ref="char:EOLhyphen"/>gested, that 'tis but Just we should patiently submit in all things to the Will of God. The <hi>Pythagoreans</hi> speak handsomly to this purpose, says <hi>Plutarch:</hi>
+            </p>
+            <q>
+               <l>Bear patiently what Ills by Heav'n are sent,</l>
+               <l>And add not to your Griefs by Discontent.</l>
+            </q>
+            <p>And he quotes the Tragedian <hi>Aeschylus,</hi> saying,</p>
+            <q>
+               <l>He store of Wisdom and of Vertue hath,</l>
+               <l>Whom nothing from the Gods provoke to Wrath.</l>
+            </q>
+            <p>Who can possibly be so fit to dispose of all things, as he who is infinitely Wise, and Just, and Good? Though the Great God is universal Sovereign of the World, yet he does not dispose of things by an absolute naked Sovereignty; but as he is Good, and Wise, and Righteous too, so he exercises his Sovereignty according to the Direction, as we may say, of these Attributes: There are no such Absolute Dispensations then, and by Consequence no such Absolute De<g ref="char:EOLhyphen"/>crees neither, as do not include in them
+<pb n="52" facs="tcp:31057:28"/> the Exercises of these Attributes. And this the Inspired Psalmist teaches us, <hi>Psal.</hi> 67.</p>
+            <q>
+               <l>The Nations now may sing</l>
+               <l>Their Joys, since God does Reign;</l>
+               <l>He Rules with Wisdom, this Great Judge</l>
+               <l>Will Righteousness maintain.</l>
+               <bibl>Patr. Trans.</bibl>
+            </q>
+            <p>And again in <hi>Psal.</hi> 89. he says,</p>
+            <q>
+               <lg>
+                  <l>The World, with all therein, Great Lord, is thine,</l>
+                  <l>All made from nothing by thy powerful Voice;</l>
+                  <l>The fullness of the well-replenish'd Earth</l>
+                  <l>Is thine, and all things in thy Care rejoyce.</l>
+               </lg>
+               <lg>
+                  <l>Thy mighty Pow'r, without controle, Effects</l>
+                  <l>Thy Will, and does not a Resistance fear;</l>
+                  <l>Yet Tender Mercy, Exact Righteousness,</l>
+                  <l>And Stedfast Truth, in all thy Rule appear.</l>
+               </lg>
+            </q>
+            <p>It were not for our Interest to be at our own Disposal: For though perhaps we should be for the most part kind enough to our selves, yet our Ignorance and want of Wisdom would often make us hurt our selves. God's Wisdom knows what is best for us, and his Goodness will always chuse that for a good Man; and his Righteousness is such, that he will certainly never do us any Wrong.</p>
+            <p>He takes away a Good Man at such a Time as is best for him: And oftentimes
+<pb n="53" facs="tcp:31057:28"/> that he may not see the Troubles and Cala<g ref="char:EOLhyphen"/>mities which may befall his Country or his Family. So he call'd away the good <hi>Josiah</hi> at Thirty Nine Years of Age, and from all the Honour and Felicity of a Throne: And the good Son of wicked <hi>Jeroboam,</hi> while he was but yet a Child. It is well for good Persons, that their Time of Life is in the Hands of God, and at his Disposal alone; if it were in the Hands of their Friends, they would detain them here too long, amidst the Dangers, Fears and Conflicts of this World: And if it were at the Disposal of their Enemies, they would hurry them from hence too soon from the good Service they do; and that themselves might be at the more Liberty to do Mischief: If I am glad my own Time is in God's Hand, I may be contented that my dear Friend's Time was so too. He does not take away a good Man before he is fit to die; for as such, he is always so: And then his Death does ne<g ref="char:EOLhyphen"/>ver come too soon for his Advantage, let it come when it will.</p>
+            <p>It is a Kindness to be removed from this troublesome World when we are prepar'd for a better; and the sooner we obtain our Dismission, it seems to be the better for us. The chosen Vessel, to whom to live was Christ, and who certainly liv'd to good Purpose, yet thought it better for himself
+<pb n="54" facs="tcp:31057:29"/> to depart and be with Christ, than to stay here; and he desir'd it as a thing that would be gainful to him. We very often see, that those who arrive to an extraordi<g ref="char:EOLhyphen"/>nary Degree and Ripeness of Piety and Vir<g ref="char:EOLhyphen"/>tue in early Years, are also early dismist from this World; which doubtless, is not out of Displeasure, but out of Favour to them. The Moralist says, Vertuous Men die in the Prime of their Years, by the Kindness of the Gods to whom they are pe<g ref="char:EOLhyphen"/>culiarly dear. And he quotes <hi>Menander,</hi> saying to this Purpose:</p>
+            <q>
+               <l>Whom God does take care for, and love,</l>
+               <l>They die young here to live above.</l>
+            </q>
+            <p>The Case of my departed pious Friend then, is this: I lov'd her, and she was most pleasing to me by her excellent Accomplish<g ref="char:EOLhyphen"/>ments, and for these Reasons I would fain have detained her here: And God loved her too, and she was pleasing to him, and he has taken her to himself; and what have I to say to this. If any thing, sure I should fall down on my Knees, and thank him on her Behalf: I have now somewhat the more Engagement and Reason to joyn with that Thanksgiving of the Church: We bless thy Holy Name (O Lord) for all thy Ser<g ref="char:EOLhyphen"/>vants
+<pb n="55" facs="tcp:31057:29"/> departed this Life in thy Faith and Fear.</p>
+            <p>If my Friend dies in the Prime of her Years (as your dear Companion did) she then escapes the heavy Infirmities of Old Age, which to the most of Men comes at<g ref="char:EOLhyphen"/>tended with many, and those very grie<g ref="char:EOLhyphen"/>vous Inconveniences. Of which one speaks thus:</p>
+            <q>
+               <l>Long Life opprest with many Woes,</l>
+               <l>Meets more, the further still it goes.</l>
+            </q>
+            <p>And another describes that Unhappy Age of Life thus.</p>
+            <q>
+               <l>The Evils of frail Life oppress the Old;</l>
+               <l>Loose wither'd Skin does their shrunk Limbs enfold:</l>
+               <l>Their Senses fail, their Joynts grow stiff; and through</l>
+               <l>Their Veins not Blood, but Watry Humours flow.</l>
+               <l>Their trembling Bodies with a Staff they stay,</l>
+               <l>Nor do they breath, but sigh the Time away:</l>
+               <l>While Anxious Thoughts afflict the weary Mind,</l>
+               <l>Through want of Sleep no Ease from them they find.</l>
+            </q>
+            <p>One very fitly compares an Early Death to a Man's going away from an En<g ref="char:EOLhyphen"/>tertainment before he becomes absurd, and before the feeble Staggerings and Dotage of Drunkenness overtake him. And the un<g ref="char:EOLhyphen"/>mannerly Contempt of Old Age, which but too frequently it meets with from the
+<pb n="56" facs="tcp:31057:30"/> Ignorance and Folly, and the Pride of Youth, is commonly more uneasie and vex<g ref="char:EOLhyphen"/>atious than all its own Infirmities. But from all these things, my departed Friend is deliver'd and secur'd for ever.</p>
+            <p>It is not at all the worse for her, that she had not a long Life, meerly upon that Account: That Life is not the best which is longest only. And when we go to God, it will not be enquired, how long we have liv'd, but how well. And the short Life of one Person, may obtain from him much more Applause, and much greater Rewards than the longer Life of another. If my departed Friend was very industrious in the Duties of her Place, she might live much in a little Time. If she had form'd great Pro<g ref="char:EOLhyphen"/>jects and Designs for the Glory of God, and the Benefit of Mankind: God who in<g ref="char:EOLhyphen"/>spir'd her with them, accepts the Will for the Deed, since he does not allow her Time to put them in Execution: And is now re<g ref="char:EOLhyphen"/>warding her for her good Designs.</p>
+            <p n="3">3. We should careful<g ref="char:EOLhyphen"/>ly observe what Circum<g ref="char:EOLhyphen"/>stances <note place="margin">We should consider the Circumstances of the Death we lament, which may alleviate our Sorrow.</note> may be found in the Death which we la<g ref="char:EOLhyphen"/>ment, that may be pro<g ref="char:EOLhyphen"/>per to alleviate our Sor<g ref="char:EOLhyphen"/>row for it. For 'tis very true, what the
+<pb n="57" facs="tcp:31057:30"/> Philosopher says, that every thing has two Handles, the one tolerable, and the other intolerable. <hi>(Epict. Cap.</hi> 65.) It is our Wisdom then, to take every thing which happens to us, by that which is tolerable; for then it will do us least Harm, and be least grievous to us. Some Circumstances may aggravate, some may alleviate the same thing. And perhaps from the very same Circumstances, Passion may draw Vex<g ref="char:EOLhyphen"/>ation; from which, pure Reason and a composed Mind would derive Alleviations of the Evil. We have all of us but too fre<g ref="char:EOLhyphen"/>quent Reason, through Neglect of this Wis<g ref="char:EOLhyphen"/>dom, to apply to our selves what a Devout Person, much to this Purpose sings.</p>
+            <q>
+               <lg>
+                  <l>Ʋnhappy we, by our own Fault,</l>
+                  <l>'Tis we our Life abuse:</l>
+                  <l>The World presents a furnisht Shop,</l>
+                  <l>But we the Tools misuse.</l>
+               </lg>
+               <lg>
+                  <l>So have I seen a foolish Child,</l>
+                  <l>If Nurse but turn her Eye;</l>
+                  <l>Instead of Haft, take hold o'th' Blade,</l>
+                  <l>And cut it self, and cry.</l>
+               </lg>
+               <lg>
+                  <l>That foolish Child, alas, am I;</l>
+                  <l>Self-will'd, self-wounded too:</l>
+                  <l>But Lord, turn not thy Face away,</l>
+                  <l>Lest I my self undo.</l>
+               </lg>
+               <bibl>Reform'd Devot. Hymn 29</bibl>
+            </q>
+            <pb n="58" facs="tcp:31057:31"/>
+            <p> I ought then to seek and enquire if there may not be found such Circumstances in the Death of my dear Friend, as may alleviate and soften the Affliction.</p>
+            <p>And it is considerable, to this Purpose, that she did not die by the Hands of Cruel Men: I did not see her chain'd to a Stake and burnt alive; nor torn in pieces by Wild Beasts; nor broil'd on a Gridiron, nor frozen to Death in Water, nor nail'd to a Cross: She did not die by slow Tortures, a long lingring Death: As many pious Souls, highly belov'd of Heaven, and of whom this World was not worthy, have done She was not, in her Death, made a Specta<g ref="char:EOLhyphen"/>cle to the World; not expos'd to the Scorn, nor sacrificed to the Malice of her Enemies: But died by the gentle Hand of God, a kind Father, in her Bed; and is laid to Rest in her Grave, among the Sepul<g ref="char:EOLhyphen"/>chers of her Ancestours. She was not snatch'd away from me all at once, by an Apoplexy, or any such sudden Death. I had the Warning of some Days to prepare, as well as I could, for the worst Event: And she had so much Warning to compleat her Fitness to die, or to put her self into an actual Disposedness for it. And as her Death was not so sudden as to be alto<g ref="char:EOLhyphen"/>gether a Surprize, so neither was her Sickness long and tedious. I remember
+<pb n="59" facs="tcp:31057:31"/> with what an Admirable Patience, and Constancy of Mind, she bore the worst Inconveniences of it.</p>
+            <p>It may be a great satisfaction to me to consider, That the Providence of God order'd this to befall her when I could be present, and perform the last Offices of my Love. That it did not happen at such a time when I might have been call'd away, and at a great distance from her: So she had the Comfort of my Love to the last mo<g ref="char:EOLhyphen"/>ments of her Life. And doubtless it pleased, and comforted her much, and allay'd her Affliction, to see that she enjoy'd in her di<g ref="char:EOLhyphen"/>stress, the diligent and careful Attendance of so dear a Friend. And if this softned her Affliction, it may justly lessen my Sor<g ref="char:EOLhyphen"/>row for what she endur'd. I may be satis<g ref="char:EOLhyphen"/>fied too in this, That I sought and procur'd for her the best means and helps to recover, that Art or Nature could afford: That no<g ref="char:EOLhyphen"/>thing was wanting in Care or Endeavour on any part, to have retain'd her amongst us. It was evidently God's blessed Will to take her hence: And his Will be done.</p>
+            <p>As she was Virtuous and Pious, she was in the same measure willing to Die; and able to receive her Death with an undaunt<g ref="char:EOLhyphen"/>ed Courage and Resolution. Virtue is an Essay, a kind of Preludium of Dying: <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s it mortifies our Affections to this vain
+<pb n="60" facs="tcp:31057:32"/> World, and fixes them on better Objects, the Gifts and Felicities of Heaven. To one that has wean'd her Heart from this Life, and is in the Temper and Disposition of her Mind Dead to this World, it is no very uncouth, no very grievous thing to Die. My Friend was practising Death by Degrees while she liv'd; and mortified first one Af<g ref="char:EOLhyphen"/>fection, then another. That she must now leave all her Enjoyments, did not much grieve her, because she had been gradually leaving them before; she had been sepa<g ref="char:EOLhyphen"/>rating her Heart from them. To make the burden of Dying the more easie to bear, she took it up by Parcels; and so having de<g ref="char:EOLhyphen"/>liver'd her self from them, she did not bear it all at once. Thus it came to pass, that she was no sooner sensible she must Die, than willing to do so. She was ready to resign up her good Soul into the Hands of a Faith<g ref="char:EOLhyphen"/>ful Creator: And she, whose Death I am tempted inordinately to Lament, did not at all Lament for it her self. Her willing Submission and Resignation to the Divine Disposal, should teach me the same thing. She went away, perhaps, not only con<g ref="char:EOLhyphen"/>tented, but joyful that she was to go. Tho' her Love to me, and her Wisdom, might make her Conceal that she was willing to leave me; yet she was glad, I may believe, to find that she had finish'd her Course, that
+<pb n="61" facs="tcp:31057:32"/> she was come to the End of a dangerous Warfare, of a weary Race: That she was now going to receive her Masters kind Ap<g ref="char:EOLhyphen"/>plause. She was glad that she was going to the dear Embraces of her Celestial Lover; to the charming Presence of Jesus the Prince of Loves. She had, it may be, such fore<g ref="char:EOLhyphen"/>tasts of the Heavenly Bliss, as even ravisht her Soul away: She long'd to partake of more of that which was here so pleasant, and flew to it upon the strong Wings of ar<g ref="char:EOLhyphen"/>dent Desire: And if it was thus with her, as it might be, though her Distemper made her not able to express it; then 'tis very incongruous, that I should attend her Tri<g ref="char:EOLhyphen"/>umph and Joy with my immoderate Sor<g ref="char:EOLhyphen"/>row and Tears.</p>
+            <p>It may be consider'd too as an Allay of her Departure, that she had not those Hostages to leave to the unkind World, which tender Mothers are often so loth to part with. And as it may comfort me to consider, that her Death wanted this unhappy Circum<g ref="char:EOLhyphen"/>stance to make it the more uneasie to her self; so I am hereby deliver'd from an Ag<g ref="char:EOLhyphen"/>gravation of her Departure, which would have made it the more uneasie to me. If I must have been concern'd on their account, and have been troubled with a sense of the loss they had sustain'd; and if so much the more Care must have been the Burden of
+<pb n="62" facs="tcp:31057:33"/> my Shoulders alone upon her leaving me; which must have been if she had left me any such Objects of my Care.</p>
+            <p n="4">4. In all Afflictions <note place="margin">It should be consider'd, what good things we still enjoy.</note> and Losses, we may moderate our Sorrow by considering what good things are still left us. The Philoso<g ref="char:EOLhyphen"/>pher thought, that the calling to mind, and the letting our Thoughts stay upon the comfortable and happy Circumstances which are past and gone, might be of use to Alle<g ref="char:EOLhyphen"/>viate Sorrow; therefore he says, He who calls prosperous things to Mind, and turn<g ref="char:EOLhyphen"/>ing his Thoughts from dark, and melan<g ref="char:EOLhyphen"/>choly Objects, fixes them on bright and chearful ones. He will either quite extin<g ref="char:EOLhyphen"/>guish his Grief, or by allaying it with a sense of contrary things, render it weak and Feeble: For as a Perfume (says he) brings Delight to the Nostrils, and also fortifies them against ill smells; so the re<g ref="char:EOLhyphen"/>membrance of Happiness gives necessary assistance in Adversity to those who will use it. Have I not taken satisfaction hereto<g ref="char:EOLhyphen"/>fore, to reflect upon the obliging and charm<g ref="char:EOLhyphen"/>ing Conversation of my Friend, when my Affairs have kept me absent from her? And have not such Reflections sweetned and al<g ref="char:EOLhyphen"/>lay'd that Absence? Why then should not such Reflections do me the same Kindness
+<pb n="63" facs="tcp:31057:33"/> still? If I let this Impertinent Thought afflict me, that I must no more enjoy the same Delight, it will deprive me too of all the Use, and Comfort, and Pleasure, of what I have enjoy'd; which would make my Con<g ref="char:EOLhyphen"/>dition still much the worse.</p>
+            <p>But if it be useful to alleviate our Sor<g ref="char:EOLhyphen"/>row, to remember the good things which we had, and reflect upon the Delight which they afforded us; it must be certainly much more useful to look upon those good things that remain with us, and entertain our Thoughts with the Advantages and Accom<g ref="char:EOLhyphen"/>modations of them. As there is no Condi<g ref="char:EOLhyphen"/>tion of Life that is perfectly Happy, and furnished with all Good, and exempted from all manner of Evil; so there is not one so perfectly Miserable and Grievous, but somewhat that is Convenient and Com<g ref="char:EOLhyphen"/>fortable may be observed in it: And it is our Wisdom to take notice of whatever is Commodious and Comfortable.</p>
+            <q>
+               <l>Some Good things, with the Evil, still are joyn'd,</l>
+               <l>And in strict Ʋnion mutually combin'd;</l>
+               <l>The Checker'd Work does Beautiful appear,</l>
+               <l>And what is Sweet, allays the more Severe.</l>
+               <bibl>Eurip. in Plut. de Tranq.</bibl>
+            </q>
+            <p>We ought not to be discouraged, nor despond in our Afflictions, but imitate the
+<pb n="64" facs="tcp:31057:34"/> Musicians, as one says, who drown the harsh Cadencies with others which more Caress the Ear: We by tempering our Adverse Fortune with what is more Prosperous, should render our Lives as equal and as Pleasant as we can. Whatever our Condi<g ref="char:EOLhyphen"/>tion of Life is, this Weapon against Grief is necessary to us; unless there were any State of Life on Earth which were perfectly Happy. In the greatest Affluence of Worldly Goods we shall want something, and shall be apt to think we want more than we do: But if we will not take notice of what we have, and will let our selves be always pining after what we want or desire, we shall be continually tormented with Grief and Discontent</p>
+            <p>I will consider then, that through the Favour of God, I have many things very Comfortable still left me, to allay the Loss of this one; I have lost one Friend, and in<g ref="char:EOLhyphen"/>deed the nearest and Dearest I had, but I have still a great many more, who will all readily do their utmost to render this Loss as easie and tolerable as they can: And there are Thousands of Good People pity me, and daily recommend me in their Fer<g ref="char:EOLhyphen"/>vent Prayers to the Father of Mercies. I have some Diligent and Faithful Servants to assist me in my Affairs; and I have a good Esteem and Reputation in the World,
+<pb n="65" facs="tcp:31057:34"/> I have still, Thanks be to God, that Plenti<g ref="char:EOLhyphen"/>ful or Competent Fortune which he has pro<g ref="char:EOLhyphen"/>vided to Comfort my Passage through this World: If I Lament that she I loved is taken away from Plenteous and Happy Cir<g ref="char:EOLhyphen"/>cumstances which we enjoy'd together, I ought to allay my Grief, by considering that the same Happy Circumstances are con<g ref="char:EOLhyphen"/>tinued to me, though she be removed. And, as the Philosopher wisely speaks, it is not to be esteemed a great Evil to want these things, and but a small Benefit to enjoy them: If then she has a great Loss and Unhappiness in being taken away from our Prosperous Circumstances, I have a great Favour and Benefit afforded me that I am still left to enjoy them.</p>
+            <p>Others, I may believe, account me very Happy in the Circumstances which I have, who want a great deal of that which I shall enjoy: And if they account me Happy, why should I judge my self Miserable? They may perhaps pretend to be very Sorry for my Misfortune, and come to Condole it: But this is meer Pretence, They still ac<g ref="char:EOLhyphen"/>count my Condition better than their own. <hi>Aristippus</hi> was sensible of this, who when he had lost a noble Farm, and one came with great Professions of Sorrow for his Loss, he asked of that Person, whether he had more than one Field? He granted
+<pb n="66" facs="tcp:31057:35"/> that he had not: And have not I (says he) three still left me? This was granted too: Have not I then (replied <hi>Aristippus)</hi> more reason to condole your Misfortune, than you mine. It is excellent Advice which the Phi<g ref="char:EOLhyphen"/>losopher <hi>(Plut.)</hi> gives his Wife to this pur<g ref="char:EOLhyphen"/>pose, upon the Death of their Beloved Daughter, Do not you (said he) take no<g ref="char:EOLhyphen"/>tice of the Tears and Moans of such as visit you, condoling your Misfortunes, for their Tears and Sighs are things of course. But rather do you consider, how Happy every one of them esteems you for the Circum<g ref="char:EOLhyphen"/>stances which you are still in, notwithstand<g ref="char:EOLhyphen"/>ing your Loss. For it would be an ill thing, if, while others covet your Fortune, though sullied with this Affliction, you should your self despise what you enjoy; and through too much Sense of your Affliction, should forget that Gratefulness which you owe for the Happiness which remains untouch'd. He certainly did well, to mention the Gra<g ref="char:EOLhyphen"/>titude we owe for what we still enjoy; for it is doubtless an Ingratitude to the Supreme Disposer of all things, and so a Sin against God, to let the Sense of any Loss deprive us of all Sense and Comfort in what remains with us: And this must, then, be a great Provocation to Almighty God, to take away even what is left us too. I must take care therefore that I do not make my self
+<pb n="67" facs="tcp:31057:35"/> unworthy of what I have, by my Grief for the Enjoyment I have lost; and that I do not put my self in danger of more Affliction, by an undue Behaviour under what I suffer already. Since my Sorrow arises from my present Loss, I ought, in Wisdom, to take care that it may not expose me to greater Losses. Do I not grieve, because I would not (if it might please God) lose those good things which are the Comforts and Supports of my Life; and shall I, then, so grieve for the loss of one, as to occasion and procure the loss of more?</p>
+            <p>If I refuse to take any Comfort in what I still enjoy, I do more towards my own Misery and Vexation, than the Providence of God has done: And in that case, whom have I most reason and cause to be angry with? Shall we imitate, says one, the Sordid Miser, who having heaped together a great deal of Riches, never enjoys what he has in Possession; but yet will sadly Bewail if he chances to lose it? I ought to be as Just to what I have, as to what I have lost: Is it not because I valued, and took great De<g ref="char:EOLhyphen"/>light in that, while I had it, that 'tis now a matter of Grief to me to lose it? And why then should I not value and take de<g ref="char:EOLhyphen"/>light in what I still enjoy? Should I grieve for these things too if they were taken away? And shall I then condemn my self to the
+<pb n="68" facs="tcp:31057:36"/> Absurdity and Misery of valuing and loving things only when they are gone, and not at all while they are with me?</p>
+            <p>If all things else were taken from me (you may say) yet it were a Comfort worth taking notice of, that I have still my self left. If one should ask me, whether I ever had any thing which I could account more valuable and precious than my self? I should be likely to say Not. If then I have command of my self, I possess that still which I would not lose, and which Fortune cannot take from me. Thus a great Man in his Affliction spoke to himself <hi>(Boet. l.</hi> 2. <hi>de Consol. Philos.)</hi> Is it for my own sake, a Man may say, that I am troubled at this Loss? Then I value my self more than the thing I have lost: And then I ought to be com<g ref="char:EOLhyphen"/>forted in this that I still possess my self. Our Blessed Saviour suggests this Argument, when he says, <hi>The Life is more than Meat, and the Body than Raiment.</hi> I may consider, then, that I have (thanks be to God) a good Enjoyment of my self in the Healthful State of my Body: I have, or may have, a good Enjoyment of my own Mind, and the Ac<g ref="char:EOLhyphen"/>complishments and Ornaments of that, if I do not let immoderate Passions deprive me of these: I have still that Courage and Re<g ref="char:EOLhyphen"/>solution to Undertake, that Industry and Skill to Manage and Conduct, and that Con<g ref="char:EOLhyphen"/>stancy
+<pb n="69" facs="tcp:31057:36"/> and Steadiness of Mind to prosecute any Designs of Importance, which through the Favour of God have heretofore so well succeeded to me. A Man may retain his Virtue still, and enjoy the Happy Consola<g ref="char:EOLhyphen"/>tions and Applauses of a Good Conscience under all his outward Losses: He may say, I have not in this Loss parted with my Hopes of Heaven, and of the Enjoyment of Eternal good things there: Thus I possess still, through the Favour of God, those things, which in the best of my days, were the best things I had: And it is the peculi<g ref="char:EOLhyphen"/>ar happy Advantage of these things, that they shall never be lost, nor can be taken from me, unless I will.</p>
+            <p n="5">5. It is very fit to al<g ref="char:EOLhyphen"/>lay even the greatest <note place="margin">God is always the Good Man's Friend.</note> Affliction, to consider, That God is always the Good Man's Friend. A peculiar Favour he always has for such: They please him in their Actions, and they bear his Image and Resemblance: And his Favour to them is every where assur'd in his Revelations of himself. <hi>The Lord ordereth a Good Man's Goings,</hi> we are told, <hi>and maketh his Way acceptable to himself. They that are of a fro<g ref="char:EOLhyphen"/>ward or perverse Heart, are an Abomination to the Lord, but such as are upright in their
+<pb n="70" facs="tcp:31057:37"/> Way, are his Delight.</hi> And the Wise Man says, <hi>He loveth him that followeth after Righ<g ref="char:EOLhyphen"/>teousness: The Lord is far from the Wicked, but he heareth the Prayer of the Righteous.</hi> We find this Truth very often and very joyfully celebrated by a good Man, and own'd to have been his frequent Experience; and he too, was a Person that was exercised with very many Afflictions; I mean the greatest King, and the sweet Singer of <hi>Is<g ref="char:EOLhyphen"/>rael;</hi> who says (in <hi>Psal.</hi> 34. for Instance.)</p>
+            <q>
+               <lg>
+                  <l>God loves the Righteous, and on them</l>
+                  <l>He casts a Gracious Eye:</l>
+                  <l>His Ear's attentive to their Suits,</l>
+                  <l>And open to their Cry.</l>
+               </lg>
+               <lg>
+                  <l>Nor do they cry in vain: wish'd Help</l>
+                  <l>And Ease their Troubles have:</l>
+                  <l>God will draw near to broken Hearts,</l>
+                  <l>And contrite Spirits save.</l>
+               </lg>
+               <lg>
+                  <l>Tho' Good Men oft afflicted are,</l>
+                  <l>At length God sets them free:</l>
+                  <l>His Care does to their Bodies reach,</l>
+                  <l>No Bone shall broken be.</l>
+               </lg>
+               <lg>
+                  <l>Bad Men shall perish when they're plagu'd,</l>
+                  <l>With all that hate the Just;</l>
+                  <l>Whom God will keep, and never fail,</l>
+                  <l>Their Hopes that on him Trust.</l>
+               </lg>
+               <bibl>Patr. Trans.</bibl>
+            </q>
+            <pb n="71" facs="tcp:31057:37"/>
+            <p> And in the same Psalm, he declares these great things to have been his own happy Experience: And says,</p>
+            <q>
+               <lg>
+                  <l>I sought the Lord in my Distress,</l>
+                  <l>And graciously he heard:</l>
+                  <l>His Timely Succours did prevent</l>
+                  <l>The threatning Harm I fear'd.</l>
+               </lg>
+               <lg>
+                  <l>Blest Angels, which on God attend,</l>
+                  <l>Yet, wait t' encompass such</l>
+                  <l>As fear him, to preserve them safe,</l>
+                  <l>When Dangers near approach.</l>
+               </lg>
+               <lg>
+                  <l>O Taste and see, as I have done;</l>
+                  <l>And then confess you must,</l>
+                  <l>That God is good, and they are blest,</l>
+                  <l>That in his Goodness trust.</l>
+               </lg>
+               <bibl>Ib.</bibl>
+            </q>
+            <p>But if God be the Good Man's Friend, every Man may say, then, he may be mine: It is but my becoming a Good Man, and I shall certainly have him so: And what Joys, what mighty Consolations will this afford, to have God my Friend! To be a Favourite of the King of Heaven! Of an infinite Be<g ref="char:EOLhyphen"/>ing! Of the Fountain of Good! Of the Su<g ref="char:EOLhyphen"/>pream Governour and Disposer of all things! Of the Eternal, the Unchangable God! His Favour and Friendship is a sure, and a most useful Possession, a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d will do more for me, than any other thing can do.
+<pb n="72" facs="tcp:31057:38"/> It is the greatest and happiest Advantage that a poor, weak, mortal Creature can at<g ref="char:EOLhyphen"/>tain. And this too, the Royal Psalmist sweetly sings, <hi>(Psal.</hi> 4.)</p>
+            <q>
+               <lg>
+                  <l>Tho' others in Distrust of thee,</l>
+                  <l>To other Succours fly,</l>
+                  <l>Thou art my Hope; Lord cast on me</l>
+                  <l>A Favourable Eye.</l>
+               </lg>
+               <lg>
+                  <l>Thy Love more chears my Heart, than when</l>
+                  <l>Their Corn has wish'd Increase;</l>
+                  <l>Or when a happy Vintage makes</l>
+                  <l>Their Wine o'erflow the Press.</l>
+               </lg>
+               <lg>
+                  <l>Down will I lie in Peace, and Sleep</l>
+                  <l>Shall close my wearied Eyes;</l>
+                  <l>No Fears disturb me whilst I know</l>
+                  <l>In God my Safety lies.</l>
+               </lg>
+               <bibl>Patr. Transl.</bibl>
+            </q>
+            <p>If the great and good God, then, be my Friend, I shall not, if he pleases, see any ill Consequences of my present Loss: The greatest Affliction of it shall be the Loss it self; and it may be perhaps, intended and sent as a Ballast, to keep my Mind steady, and in good Order, in some great Felicity that he intends me; those prosperous Gales might overset my Wisdom and Virtue with<g ref="char:EOLhyphen"/>out it, and the Consequence of that might be the speedy ruine of my Prosperity too. If it pleases God, he will make up this Loss
+<pb n="73" facs="tcp:31057:38"/> to me, in such ways as his Wisdom sees fit<g ref="char:EOLhyphen"/>est for me. Have I lost a Friend that was very Wise, and capable to afford good Counsel in matters of Difficulty? I have in him a Friend of infinite Wisdom. Was my departed Friend very kind, very tender of my Comfort, and concern'd for my In<g ref="char:EOLhyphen"/>terests? There is no Lover like the God of Love, or so kind as he, who is <hi>abundant in Goodness.</hi> I am indeed well-assur'd that my departed Friend was faithful, and would have been always true: And can any one be more faithful and true, than the God of Truth. And to all this I may add, for my Comfort, the consideration of his Almighty Power. In many things she found her self able to do no more for me, than to wish my Advantage; but the Almighty God can do what he pleases: She might in many Cases want Power, or Opportunity to do me kindness, but these the supream di<g ref="char:EOLhyphen"/>sposer of all things can never want. He certainly can supply the absence of any Creature, and easily find out ways to make this Want and Loss unsensible to me: That which I think an intolerable Af<g ref="char:EOLhyphen"/>fliction, he will, if he sees good, render a very light one, or so deal with me as to make me account it none at all.</p>
+            <p>But if this shall prove an Affliction to me, and draw more in consequence along with
+<pb n="74" facs="tcp:31057:39"/> it, this must not discourage nor deject me; for I may notwithstanding this, be an Ob<g ref="char:EOLhyphen"/>ject of the Divine Favour. The wise Man says, <hi>The Righteous, and the Wise, and their Works, are in the Hand of God: No Man knoweth either love or hatred by all that is be<g ref="char:EOLhyphen"/>fore them.</hi> Which another Wise Man ex<g ref="char:EOLhyphen"/>plains in an excellent Paraphrase thus: <q>Though good Men, and prudent, are un<g ref="char:EOLhyphen"/>der the Care of God (which must satisfie them in all Events) by whose special Pro<g ref="char:EOLhyphen"/>vidence, both they and their Under<g ref="char:EOLhyphen"/>takings and Affairs, are approv'd, di<g ref="char:EOLhyphen"/>rected, govern'd, and defended; yet (such a Secret there is in it) they prove sometimes so unsuccessful, that no Man can know, by any thing that befals them, or others, how God stands affected to<g ref="char:EOLhyphen"/>wards them; but will conclude very falsly, if he judge that God loves him, who hath all that his Heart desires; or that he hates him who is sorely afflicted, <hi>(Bp. of</hi> Ely, <hi>Paraph. in loc)</hi>
+               </q> The wise God sees it useful and necessary, sometimes to rebuke and chasten those whom he loves <hi>(Rev.</hi> 3. 19.) Indulgence and Liberality (as one says) may be extended to Strangers, and even to Ene<g ref="char:EOLhyphen"/>mies, but the Kindness of Chastisement, and Correction, is the peculiar Favour for Friends, Children, and Domesticks. Af<g ref="char:EOLhyphen"/>flictions are the necessary means to make
+<pb n="75" facs="tcp:31057:39"/> some Men good, and to confirm and settle them in Virtue: They are useful to im<g ref="char:EOLhyphen"/>prove us in Virtue: They serve to make us humble, diligent, careful; to teach us Self-denial, and Temperance, and give us a good Command of our selves, and our relucting Appetites: They are useful to teach us Charity and Mercy, and give us tender Compassion to the Miseries and Ca<g ref="char:EOLhyphen"/>lamities of others. They are useful to cure our extream and fond Affection to the vain Goods of this World: And then to dispose us to value and seek the far better things which our Religion proposes to our Hopes, and which our kind Saviour has, at his own great Loss, and by great Sufferings, pur<g ref="char:EOLhyphen"/>chased for us. The Holy Spirit does often form, or improve in us, the Virtues and Graces which we want, or which most need Improvement, by the Afflictions which the Providence of God allots us. The Great and Holy <hi>David</hi> acknowledges he had re<g ref="char:EOLhyphen"/>ceiv'd this happy Benefit, by those which he had endur'd. He says (in <hi>Psal.</hi> 16.)</p>
+            <q>
+               <l>I'll bless the Lord, even when he makes</l>
+               <l>Troubles mine Exercise:</l>
+               <l>Those sad and solitary Thoughts</l>
+               <l>Instruct, and make me wise.</l>
+               <bibl>Patr. Transl.</bibl>
+            </q>
+            <pb n="76" facs="tcp:31057:40"/>
+            <p> And again, to the same Purpose, he says <hi>(Psal.</hi> 119.)</p>
+            <q>
+               <l>Whilst I was prosperous from thy Righteous Path,</l>
+               <l>Too much I must confess, I turn'd aside:</l>
+               <l>But by thy gentle Chastisements reduc'd,</l>
+               <l>I made thy Precepts my continual Guide.</l>
+            </q>
+            <p>It is said indeed, that <hi>all things shall work together for good to them that love God:</hi> There shall be a Concurrent Operation to<g ref="char:EOLhyphen"/>wards this, in all things that befal them; and their Afflictions among other things, shall have a good Effect. And if they pro<g ref="char:EOLhyphen"/>mote our Piety and Virtue, if they are ser<g ref="char:EOLhyphen"/>viceable to mortifie and correct our Passions and Vices, the Benefits which they confer, are most happy and eternal ones. But then it must be observ'd, that these Benefits are wrought by them only, upon those who bear their Afflictions well; who continue in the Love of God, while they are afflicted; and do not suffer themselves, either to be angry with God or Men, or dejected at what they suffer.</p>
+            <p>If God be my Friend, he will duly pro<g ref="char:EOLhyphen"/>portion my Sufferings and my Strength; he will certainly lay upon me no more than he will inable me to bear: If I set my self, and endeavour to bear, with Meekness and Patience, whatever is laid upon me: If I
+<pb n="77" facs="tcp:31057:40"/> calmly, and yet couragiously, take up my Cross when my outward Afflictions abound, my Consoiations and Assistance shall much more abound: He will help me to bear, as I ought, whatever comes to pass; if I de<g ref="char:EOLhyphen"/>sire and endeavour to do so: I shall, to my Comfort, find, that although I am afflict<g ref="char:EOLhyphen"/>ed, I am not forsaken by his Love and Care: According to what the Psalmist says, <hi>Psal.</hi> 94.</p>
+            <q>
+               <l>Tho' Good Men for a while chastis'd.</l>
+               <l>May under Troubles groan:</l>
+               <l>God will not utterly forsake,</l>
+               <l>Nor cast away his own.</l>
+               <bibl>Patr. Trans.</bibl>
+            </q>
+            <p>His Mercy, I may hope, will keep me safe, under all my Sufferings, from the Evil of Sin, which is the greatest, and the worst Evil that I can fall into. Whilst I lose not his Favour, I am so happy as to enjoy a Spring of never-failing Joy and Comfort, amidst all my Sorrows and Sufferings; and while I sit in Darkness, the Lord shall be a Light unto me. The Good Man patiently enduring, is a Spectacle highly pleasing to God; and the Holy Angels view him with Delight: When they see him in a generous Contempt of this World, bearing his Ad<g ref="char:EOLhyphen"/>versities without Frowardness, or any De<g ref="char:EOLhyphen"/>jection of Spirit: And continuing to love
+<pb n="78" facs="tcp:31057:41"/> God, to trust in him, and perform dili<g ref="char:EOLhyphen"/>gently, all his Duties, notwithstanding these: This shews a brave and generous Love to God, when many Waters cannot quench it, nor the Floods drown it.</p>
+            <p>When it pleases God, I shall see an hap<g ref="char:EOLhyphen"/>py End of my Afflictions. I can never fall so low but he can retrieve me: He bringeth down to the Grave, and bringeth up again. He will restore, if he sees fit, what I have lost with Advantage: And can give me another Companion as Kind, and Good, as well accomplisht as she I have lost; for from him comes every good and perfect Gift: It was from him that she was adorn'd and endow'd with so many pleasant and endearing Qualifications: And besides this, he may give what he did not before, the Blessing of Posterity too, if he pleases.</p>
+            <q>
+               <l>A fruitful Wife, like afair Vine,</l>
+               <l>With Clusters shall abound,</l>
+               <l>And Children, like green Olive Plants,</l>
+               <l>My Table shall surround.</l>
+               <bibl>Psal. 128. Patr. Trans.</bibl>
+            </q>
+            <p>So well pleas'd we find he was, with the Patience of <hi>Job</hi> under a great Train of Ca<g ref="char:EOLhyphen"/>lamities, that he restor'd to him with great Advantage, the Enjoyments which he had lost: His Estate was in all respects double
+<pb n="79" facs="tcp:31057:41"/> to what he lost; and he liv'd many years to enjoy it: And for seven Sons and three Daughters lost, he had seven Sons and three Daughters given him again; and he saw them multiplied into Childrens Children, even to Four Generations. He that loves me does not delight to Afflict or Grieve the Children of Men; much less will he need<g ref="char:EOLhyphen"/>lesly or superfluously Chastise his Servants. If he may then at any time, spare his cha<g ref="char:EOLhyphen"/>stising Rod without doing me more harm therein, he will do so. The Psalmist cele<g ref="char:EOLhyphen"/>brates his goodness and gentleness in Cor<g ref="char:EOLhyphen"/>recting, in <hi>Psal.</hi> 103. and says,</p>
+            <q>
+               <l>The Lord is kind, and Goodness is</l>
+               <l>His Nature and Delight;</l>
+               <l>Slow is his wrath, and though he Chides,</l>
+               <l>Would not destroy us quite.</l>
+            </q>
+            <p>And again,</p>
+            <q>
+               <l>A Father's Pity to his Child,</l>
+               <l>Than God's is lesser far;</l>
+               <l>For he considers our weak Frame,</l>
+               <l>And knows that Dust we are.</l>
+            </q>
+            <p>I may further consider, and assure my self, That Afflictions patiently endur'd, shall ob<g ref="char:EOLhyphen"/>tain hereafter a glorious Reward. And I may comfort my self with this expectation, as the Psalmist did in a state of great Affli<g ref="char:EOLhyphen"/>ction, <hi>(Psal.</hi> 16.) and say,</p>
+            <q>
+               <pb n="80" facs="tcp:31057:42"/>
+               <lg>
+                  <l>Therefore my Heart and Tongue rejoyce,</l>
+                  <l>In him my Flesh shall trust;</l>
+                  <l>My Soul shall not remain in Hell,</l>
+                  <l>Nor Body in the Dust.</l>
+               </lg>
+               <lg>
+                  <l>The Path of Life they both shall find,</l>
+                  <l>And in thy presence tast,</l>
+                  <l>Pleasures to full Perfection grown,</l>
+                  <l>And Joys that ever last.</l>
+               </lg>
+               <bibl>Patr. Transl.</bibl>
+            </q>
+            <p>My present Losses shall be my future Gains; my present Contempt, my future Honours: And as one says,</p>
+            <q>
+               <l>Tears shall take comfort, and turn Gems;</l>
+               <l>And Wrongs repent to Diadems.</l>
+            </q>
+            <p>And the more my present Sufferings are, the greater shall my future Joys and Glory be. I am apt to think my self hardly used, and that the Providence of God is more kind, more favourable to others than to me; because I think them much less afflict<g ref="char:EOLhyphen"/>ed than my self. When all the while he is only exercising and preparing me for the greater degrees of Eternal Glory. He here<g ref="char:EOLhyphen"/>in gives me opportunity to gain the greater Rewards; and he will assist me so that I shall do it if I will. I should always remem<g ref="char:EOLhyphen"/>ber, then, and encourage my self with what his Messenger has told us from him
+<pb n="81" facs="tcp:31057:42"/> concerning this matter; That, <hi>these light Afflictions which are but for a moment, shall work for me a far more exceeding and eternal weight of Glory.</hi>
+            </p>
+            <p n="6">6. It may justly mo<g ref="char:EOLhyphen"/>derate our Grief for the <note place="margin">Consider the many miseries and vexations of this mortal Life.</note> Death of those we love, to consider, the many miseries and vexations of this mortal Life which our Friends are deliver'd from. We pity them mightily for the good things they are taken from: But if we have a right Esti<g ref="char:EOLhyphen"/>mation of those good things, and consider the Evils mixed with them, we should see reason rather to Congratulate them, and rejoyce for their Deliverance.</p>
+            <p>The good things we enjoy, are weak and poor: They have, alas, but a very shallow Goodness, and the greedy and capacious Mind of Man soon exhausts the utmost of it, and then disdains them. The Objects of our vain Desires are far better, in our Imagination, than in the Enjoyment; and our great Expectations meet with a very uneasie Disappointment. However the thing we gain may transport us at first, while 'tis a Novelty, yet in a little time it grows much less pleasant, and at last, per<g ref="char:EOLhyphen"/>haps, distastful. We want even the Pun<g ref="char:EOLhyphen"/>gency of some Evil, to heighten the Relish
+<pb n="82" facs="tcp:31057:43"/> of these Poor Earthly Goods; as Hunger and Thirst are necessary to the Pleasures of our Meat and Drink: And if any Man had a Fortune perfectly indulgent, and without all Mixture of Affliction, he would be ab<g ref="char:EOLhyphen"/>solutely sick of it; and his unmixed, unin<g ref="char:EOLhyphen"/>terrupted Happiness would be an Adversity to him; just as a full and sated Stomach loaths the Hony-Comb. The feeble thing too, alters and decays in using: Like Flow<g ref="char:EOLhyphen"/>ers, for a few Moments, gay and sweet, but soon fading and turning to Corruption. One Generation of things, as well as of Men goes, and another comes, while the Earth abides for ever: The Fashion of this World, the pleasing Forms of things fade and vanish, though the Matter may remain. On which sad Truth, we have an Elegant Descant of <hi>Augurellius</hi> to his Friend, upon the Death of his Sister.</p>
+            <q>
+               <l>Peter, <hi>when thou this pleasant World dost see,</hi>
+               </l>
+               <l>Believe thou seest meer Dreams and Vanity:</l>
+               <l>No real things, but false; and through the Air,</l>
+               <l>Each where an empty slippery Scene appear.</l>
+               <l>The chirping Birds, the fresh Woods shady Boughs,</l>
+               <l>The Leaves shrill Whispers when the West-wind blows;</l>
+               <l>The swift fierce Grey-hound coursing along the Plains,</l>
+               <l>The flying Hare distrest 'twixt Fear and Pains:</l>
+               <l>The bloomy Maid decking with Flowers her Head,</l>
+               <l>The gladsome easie Youth by light Love led:</l>
+               <l>And whatsoe'er here with admiring Eyes</l>
+               <l>Thou seemst to see, 'tis but a frail Disguise</l>
+               <pb n="83" facs="tcp:31057:43"/>
+               <l>
+                  <hi>Worn by eternal things; a Passive Dress,</hi>
+               </l>
+               <l>Put on by Beings that are Passiveless.</l>
+               <bibl>Vaughan Flor. Solitud.</bibl>
+            </q>
+            <p>To which that ingenious Translator adds, <q>All the gay Appearances in this Life, seem to me but a swift Succession of rising Clouds, which neither abide in any cer<g ref="char:EOLhyphen"/>tain Form, nor continue for any long Time. And this is that which makes the sore Travel of the Sons of Men, to be no<g ref="char:EOLhyphen"/>thing else but a meer chasing of Shad<g ref="char:EOLhyphen"/>dows.</q> All is but Vanity, says the Roy<g ref="char:EOLhyphen"/>al Philosopher. And we may take notice that he adds Vexation of Spirit too, as that which necessarily attends the Vanity, and the Disappointment of our vast Expectati<g ref="char:EOLhyphen"/>ons therein. Such are the good things which this World affords us; and is it then any great Loss or Misery to part with such poor fading Trifles as these?</p>
+            <p>To this we must also joyn, that we are here surrounded with, and expos'd to innu<g ref="char:EOLhyphen"/>merable Evils; Man is born to Trouble, and there is commonly a Force and Pungen<g ref="char:EOLhyphen"/>cy in the Evils we meet with, which makes them far more sensible and affecting than our Pleasures. Whether of the two, for in<g ref="char:EOLhyphen"/>stance, has been most sensible to me, the Enjoyment of this Good I have lost, or the
+<pb n="84" facs="tcp:31057:44"/> loss of it. If the loss be most sensible, then this disparages the weak Goodness of all Earthly Enjoyments, since this may be said of the very best of them: If the Enjoyment was most sensible and pleasing, how comes the Relish of it to be all lost, and the Joy to be quite drown'd, and forgotten in my present Grief? Alas, one small Inconve<g ref="char:EOLhyphen"/>nience can embitter a whole Ocean of these weak Delights. Let a Man suffer an Acute Pain but in some one part of his Body, and it shall make him even a weary of his Life, though his Habitation be a stately Palace, though his Table too be covered with all the Dainties which the Air, Earth or Sea can afford; and though he be cloathed with the richest Silks or Furrs, and adorned with Gold and Diamonds.</p>
+            <p>The good things we enjoy in this World are for the most part with great difficulty obtain'd;</p>
+            <q>
+               <l>And these to our pursuits are Coy,</l>
+               <l>As they prove vain when we Enjoy:</l>
+            </q>
+            <p>There are abundance of greedy mistaken Wretches catching at every thing that falls, and but one perhaps can enjoy it: And sometimes, in their scrambling for it, they spoil the thing they are so eager for, and do all miss of it. But the Evils, of this
+<pb n="85" facs="tcp:31057:44"/> Life we are exposed to; they come of them<g ref="char:EOLhyphen"/>selves; they require our Care and Labour to defend our selves from them; and we cannot so well defend our selves, but they will often Afflict us. When we are so Ill beset, there is no Man can be perfectly Happy here. This is the wretched State which my Friend has left: And can this be just Matter of immoderate Sorrow. The Poet wisely says,</p>
+            <q>
+               <l>Some as a thing injurious Death do fly,</l>
+               <l>When of all Michiefs 'tis the Remedy.</l>
+            </q>
+            <p>And again,</p>
+            <q>
+               <l>To this, as a Physician, all resort;</l>
+               <l>And we through Tempests, Sail into this Port.</l>
+               <bibl>Aeschyl. in Plut.</bibl>
+            </q>
+            <p>Death is the safe and quiet Harbour wherein the Weather-beaten Marriner meets a glad End of all his Toils, and Fears, and Dangers. And what wise Man can I think, that were near the End of his Days, would, if the renewal of his Life were of<g ref="char:EOLhyphen"/>fer'd him, be contented to go through it all again; to bear the Ignorance and Weakness of Infancy, the Fears of Childhood, to be exposed to the Fatal Dangers of rash Youth, to endure the weighty Cares of Manhood,
+<pb n="86" facs="tcp:31057:45"/> and the weightier Infirmities of Old Age. I believe it may be said, That hardly any Man did ever live a long Life in this World, in so much Happiness, as that he would be willing to repeat it all again just as it was: Hardly would any Man endure the Evils he has past over for the sake of the good Things he has enjoy'd. Would I, for in<g ref="char:EOLhyphen"/>stance, endure the Grief and Trouble of losing the Dear Possession which I had, for the sake of the Happiness and Pleasure which I took in Possessing: If so, then I have no reason for Impatience, since the Providence of God has herein favoured me with more Good than Evil: If I would not, I may justly disdain all the Felicity of this World, and then I cannot reasonably think my Friend greatly hurt in being taken from it.</p>
+            <p>The Pure and Heaven-born Soul, is in this Life confin'd to an Earthly Carkass, which, as the case stands with us now, is but as a Prison: A Spirit is shackled to Flesh, and a spritely active Being is clogged with a dull Lump of Clay: The Noble Soul it self grows forgetful of its Divine, Original and Noble Capacities; suffers it self to be amused and detained by sensible things, and contracts a Shameful Sensuality and Earth<g ref="char:EOLhyphen"/>liness by her conversing with them. Hence proceed frequent Erroneous Judgments of
+<pb n="87" facs="tcp:31057:45"/> things, Perverse and Foolish Elections: The Purblind Mind pursues Good at a venture, knows not to direct her self right, and an ill byass diverts her from a right Aim. We are apt to prefer Temporal and Sensual Goods before Spiritual and Eternal ones, Earth before Heaven, and to love the Empty Fading Creature, before the Infinite Eter<g ref="char:EOLhyphen"/>nal Fullness of God. Hence do we often ignorantly devour pleasant Poisons, and madly embrace Gawdy but Consuming Flames: We seek and catch at things which we are blindly inamour'd with, many times, to our own Hurt and Confusion. But when the Happy Soul is disingaged from this Body, and no longer importuned and incumbred by that, it is no longer liable to these Mis<g ref="char:EOLhyphen"/>chievous Follies: The Eye of the Mind sees clearly, it is enlightned with pure and abundant Truth: She sees her chief Good, and fixes her Choice upon Infinite and Per<g ref="char:EOLhyphen"/>fect Goodness: Her Faculties gladly find their Liberties regain'd, and that they can exert themselves and act without any Clog or Incumbrance: How many Mean and Vex<g ref="char:EOLhyphen"/>atious Cares do the Real and Natural Ne<g ref="char:EOLhyphen"/>cessities of our Frail Body here subject us to? What Trouble and Toil does it many times cost us to supply its Wants, to heal its Diseases, to defend its Rights and Conve<g ref="char:EOLhyphen"/>niences? What a multitude of Diversions
+<pb n="88" facs="tcp:31057:46"/> will these things necessarily give us, from the proper Business of Life, our Glorifying and Serving God, and being useful to the World? And to the best Pleasures of Life, the Exercises of Devotion and Beneficence? Is it not really a Lamentable Thing, that so much precious Time must be spent upon this Vile Body, in Lazy Sleep, and the com<g ref="char:EOLhyphen"/>mon Animal Drudgery of Eating and Drink<g ref="char:EOLhyphen"/>ing? If we do not Indulge it with due Meals, with some Recreations and frequent Rest, it will fail us; it will further hinder us in our main Business by Uneasie Distem<g ref="char:EOLhyphen"/>pers. What a Blessed Deliverance, then, has the Departed Soul which has shaken off the Troublesome Burden of this Mortal Flesh, and can now with an unwearied Vigour and Activity, Contemplate and Enjoy the chief Fountain of Bliss, and suffers no Diversion from the most Delightful En<g ref="char:EOLhyphen"/>joyment.</p>
+            <p>The many Evils to which this Mortal Life is exposed, become yet abundantly more by the Wickedness of Mankind: Their Wickedness makes Mankind Savage, instead of being Comfortable to one ano<g ref="char:EOLhyphen"/>ther: And there is no sort of wild Beast more Cruel to Men, than are the wilder Lusts and Passions of wicked Men. It was perhaps justly said by one of the Ancients, There have been more Men destroy'd by
+<pb n="89" facs="tcp:31057:46"/> Men, than by all other Plagues and Mis<g ref="char:EOLhyphen"/>chiefs beside: If a Man has any thing to lose, he can hardly be quiet: One Man's Covetousness will invade his Riches; ano<g ref="char:EOLhyphen"/>ther Man's Ambition will incroach upon his Prerogative or Liberty; another Man's ungovern'd Love of Pleasure, will endea<g ref="char:EOLhyphen"/>vour to deprive him of his Pleasant Enjoy<g ref="char:EOLhyphen"/>ments. In what Condition of Life soever a Man is placed, he can enjoy no constant Rest or Safety in this wicked World: Those that are exalted in Dignity and Honour, that flourish in Prosperity, are continually maligned and undermin'd by the Malice and Envy of meaner People: And those that are Mean, are often Perse<g ref="char:EOLhyphen"/>cuted and Trampled on by the Oppression and Contempt of them who are High and Mighty: And all the Degrees between both, are subject to both these sorts of Mischiefs; those below will Envy, and those above De<g ref="char:EOLhyphen"/>spise and Oppress them. The Goodness of things here is so narrow and limited, that the more one Man has of them, the less another must possess: They are not like the Infinite Good of which the greatest Multitudes may share, and all be com<g ref="char:EOLhyphen"/>pleatly Happy, and all satisfied. And, be<g ref="char:EOLhyphen"/>sides this, the Lusts of Men make their De<g ref="char:EOLhyphen"/>sires so Exorbitant, that they crave and covet in all Matters more than simple Nature
+<pb n="70" facs="tcp:31057:47"/> needs or requires: Nature is contented with a little, but Lust and Vice are not satisfied with a great deal. From these things pro<g ref="char:EOLhyphen"/>ceed Strifes and Contentions, Frauds and Rapines, Cruelties and Treacheries: From these the Tyranny of Rulers and the Re<g ref="char:EOLhyphen"/>bellions of Subjects proceed: From these come Bloody Wars, and all the large Train of Calamities which they draw after them: Wars that Despise the Puny Mischiefs of Private Ruins, and Demolish Mighty Cities, make Havock of whole Provinces, and bring Flourishing Kingdoms to Misery and Deso<g ref="char:EOLhyphen"/>lation. O Miserable World! Oh the Mad<g ref="char:EOLhyphen"/>ness of Mankind! With what Reason can I greatly Lament that my Dear Friend is removed from such a World as this? Envy will not pursue her beyond the Grave: There is no Temptation to it, when Death has stript her of the Honours, or Wealth, or Pleasant things she enjoy'd. Malice in wicked Men against her will now die too: And they who were Enemies, will perhaps let themselves speak something well of her: As the Poet long ago observed.</p>
+            <q>
+               <l>Against the Vertuous Man we all make Head,</l>
+               <l>And Hate him while Alive, but Praise him Dead.</l>
+               <bibl>Mimnerm. in Euseb. Nier. de Art. Volunt.</bibl>
+            </q>
+            <pb n="91" facs="tcp:31057:47"/>
+            <p> But if their Malice should be still conti<g ref="char:EOLhyphen"/>nued it can do her no harm; she is ad<g ref="char:EOLhyphen"/>vanced far above the short reach of it: Of the Condition which she is now in is that said, <hi>There the Wicked cease from Trou<g ref="char:EOLhyphen"/>bling, and there the Weary are at Rest: There the Prisoners rest together; They hear not the Voice of the Oppressor; and the Servant is free from his Master,</hi> (Job 3. 17, 18, 19.)</p>
+            <p>If my loved Friend was in a Prosperous Condition when Death called her away, I cannot be certain that she would always have retained it in this Wicked and Disor<g ref="char:EOLhyphen"/>derly and Mutable World: The most esta<g ref="char:EOLhyphen"/>blished Condition in this Life is liable to Change: Every thing that constitutes an Earthly Prosperity is subject to Alteration: That my Friends Health and Vigour could alter, this fatal Sickness has proved. Riches make themselves Wings and fly away as an Eagle towards Heaven; irrecoverably they go and out of sight: And if these be gone which procure us the Pleasures of this World, or Health be decay'd, which must give us the Relish of them, then is the Plea<g ref="char:EOLhyphen"/>sure of Life lost and gone too: And if it had been her Fortune to have out-lived her Wealth, and become Poor, she would have found her pretended Friends forsake her too: <hi>The Poor is hated by his Neighbour, but the Rich have many Friends,</hi> says the Wise
+<pb n="92" facs="tcp:31057:48"/> Man <hi>(Prov.</hi> 14. 1.) Had she been never so Great, if she had been a Mighty and Glorious Queen, there is no certainty even in the most exalted Dignity and Honour. How easie a Revolution does it often prove, and in how little time come to pass, that the things which are upper most are thrown down, and those below are exalted: That Servants are set on Horse-back, and Princes embrace Dunghills! That he who possessed a Kingdom, comes to beg a Habitation; and he who sate on a Throne, dies on a Scaffold. A most remarkable Instance of the Mutability of Humane Affairs, even when arriv'd at the highest Pitch of Great<g ref="char:EOLhyphen"/>ness, the Roman History affords us in the Person and Fortunes of <hi>Pompey,</hi> Sirnamed the Great; of whom the Eloquent <hi>Cicero,</hi> himself too a great Instance of the Variety and Instability of Fortune, thus speaks, with deep Resentment of his Misfortunes. <q>Had this Great Man (says he) but died in Good time, no Evil had invaded him: But by living to an Old Age, he became an Example of singular and unusual Ca<g ref="char:EOLhyphen"/>lamity; whose Adverse Fortune was by so much the more Bitter, by how much the more his Prosperity had been Great and Glorious through his whole Life before. For who (says he) was ever more Dear to the Romans than this Man
+<pb n="93" facs="tcp:31057:48"/> some time was? Who ever flourish'd in greater Riches? Had more considerable Relations, Allies, and Friends than he? Who was ever more Famous in the Gown by great Deeds done, and by Honours conferred upon him out of Course? He enjoy'd whatever was necessary for his Use and Delight. But undertook a War against his Son-in-Law, forsook his House, and fled from <hi>Italy:</hi> And having lost his Army, his Camp being taken, and he fled for his Life, this great Man fell and died by the hands of Servants.</q> Thus far he. Oh wretched Condition of Humane Life! For what is this so desirable, which cannot assure us the steady Possession of any one of the good things which we enjoy! Must we not reckon it a Happiness to be delivered from this Miserable Uncertainty? And from the Anxieties, Fears and Labours which it condemns us to? This is the Happiness my Dear Friend has attained: She died in happy Circumstances, and is delivered from all Fear and Danger of seeing such as are Vexatious and Miserable. Had it pleased God to call me away before her, I could not have left her without some Solicitude and Concern for her Safety in this Malicious and Uncertain World: Now she is out of all Danger, and I am delivered from that Care. This Argument for our Consolation
+<pb n="94" facs="tcp:31057:49"/> in such a Case the Philosopher says, Every vulgar Poet could prescribe. And he quotes one, speaking thus to another upon such an Occasion as this.</p>
+            <q>
+               <l>If this with Certainty thou couldst have konwn,</l>
+               <l>That Fortune always would have Kindness shown,</l>
+               <l>That nothing else but good would him befall,</l>
+               <l>His Death thou mightest then untimely call.</l>
+               <l>But if Calamities were imminent,</l>
+               <l>And Death the fatal Mischief did prevent;</l>
+               <l>To give to things the Character that's due,</l>
+               <l>Death was the greater Kindness of the two.</l>
+            </q>
+            <p>In this Life, it is a matter of some Diffi<g ref="char:EOLhyphen"/>culty, even to the greatest Saint, to do al<g ref="char:EOLhyphen"/>ways what is Brave and Good, or to refrain sometimes from doing what is mean and wicked. He that will steadily follow a wise and regular course of Life, must undergo the troublesome Task of frequently deny<g ref="char:EOLhyphen"/>ing himself: He must cross many importu<g ref="char:EOLhyphen"/>nate Inclinations; and it will cost him a great deal of pains to mortifie these, that he may be able upon occasion to over-rule them. In this Life, every Man that will maintain his Innocence, must Conflict with a multitude of Temptations: Some of these will meeet him every where; in all Cir<g ref="char:EOLhyphen"/>cumstances and Conditions of Life; in eve<g ref="char:EOLhyphen"/>ry business; and a numerous mighty Host
+<pb n="95" facs="tcp:31057:49"/> of Dangers these are. They require the Christian Champion's most industrious Watchfulness, importunate Prayers to Hea<g ref="char:EOLhyphen"/>ven for Aid, and unwearied Resistance. And between the violent Assaults of Temptation from without, and the deceitful Treachery of Corruption within, O how hard a mat<g ref="char:EOLhyphen"/>ter is it for us to maintain an unsullied In<g ref="char:EOLhyphen"/>nocence! But if a Man yields to these se<g ref="char:EOLhyphen"/>ducing Enemies, he is led Captive by fool<g ref="char:EOLhyphen"/>ish and hurtful Passions and Vices, into Er<g ref="char:EOLhyphen"/>rors and Follies and Sins innumerable. He brings upon himself it may be, many out<g ref="char:EOLhyphen"/>ward inconveniencies, the fruits of his Wickedness; such as Reproach, Disgrace, Poverty, Sickness, or Civil Punishment: He is unavoidably exposed to the torments of a guilty Mind; and his own Conscience will often severely rebuke and punish him for his Crimes. Besides, he becomes ob<g ref="char:EOLhyphen"/>noxious to the Wrath of Almighty God, and must be liable to the Dread and Ter<g ref="char:EOLhyphen"/>rours of Everlasting Punishment. Oh how happy a thing is it, then, to be for ever out of the reach of Temptation! to be deliver'd from the solicitations of Corrup<g ref="char:EOLhyphen"/>tion, and so to be out of the danger of Sin; to be free from the Cares and Labours of keeping our selves free from that; and to be no more exposed to the miserable Con<g ref="char:EOLhyphen"/>sequences which unavoidably will attend
+<pb n="96" facs="tcp:31057:50"/> our doing Evil! And this is the happy Con<g ref="char:EOLhyphen"/>dition now of my departed Pious Friend.</p>
+            <p>These are the great Disparagements of this present wretched Life; and I might justly be even glad to think, that she whom I loved is delivered from them all. She is gone from the tempestuous Sea of this World, and landed at the Port of Safety and Rest: She now looks back with Joy and Satisfaction upon the stormy Evil World which she is escaped from: And if she thinks of me, it is with Compassion and Pity for that I am still here exposed to all these Vex<g ref="char:EOLhyphen"/>ations and Mischiefs: She is still so kind as to wish that I were in the same Safety and Tranquility with her; I must not then be so unkind to her, as to wish that she were here still amidst the Dangers and Troubles of this World. My departed Friend is in a state of perfect Rest: The Tranquility and Repose of her Condition ought to re<g ref="char:EOLhyphen"/>strain me from casting away the Tranqui<g ref="char:EOLhyphen"/>lity of my Mind, by immoderate Passion for her Departure: And it is not fit that I should be troubled overmuch for that which sets her out of the reach of all trouble. Let me consider her comfortable Deliverance then, and so Comfort my self in her De<g ref="char:EOLhyphen"/>parture, if indeed I do still Love her. The Holy Scripture proposes this Consideration to allay our Sorrow. And says,</p>
+            <q>
+               <pb n="97" facs="tcp:31057:50"/>
+               <lg>
+                  <l>Blest are the Dead who in the Lord depart,</l>
+                  <l>From henceforth Blessed write them down;</l>
+                  <l>Fear of the Pains and Labours known,</l>
+                  <l>They never more shall feel the irksome smart.</l>
+               </lg>
+               <lg>
+                  <l>The Spirit says, they are to joyful Rest,</l>
+                  <l>From all their earthly Toils remov'd;</l>
+                  <l>And their pure Works, by God approv'd,</l>
+                  <l>Follow them close, and are in Bliss possest.</l>
+               </lg>
+            </q>
+            <p>Lastly: To moderate our Grief for the Death <note place="margin">Consider the happy State to which good Souls are advanc'd at their Death.</note> of those that are Dear to us, we may consider, the happy blissful State to which the Souls of all good and virtuous Persons are advanced, when they quit their mortal Bodies, and this miserable Life. Say then to your self these comfortable things:</p>
+            <p>My deceased Friend is only departed from me for a while, she is not lost, not annihilated. From that Moment in which a Man is conceiv'd, and so forward through all Eternity, he shall never cease to be. Her Body is laid in the Dust, to rest in the quiet Grave, and is there watcht by the careful Eye of divine Omniscience: And wheresoever any Parts of that may happen in Ages to come to be scatter'd, the Divine Power will certainly collect them all again, and
+<pb n="98" facs="tcp:31057:51"/> she shall be perfectly restor'd to Being and Happiness.</p>
+            <p>But the mean while her better Part, the noble Soul, is return'd to God that gave it: And since so much of her still lives, I may say, she is gone to her Celestial Kindred. Upon her Departure from the Body, I may believe she immediately found her self, like the Soul of good <hi>Lazarus,</hi> attended by kind and glorious Angels: And they, I must needs think, are not silent at their meet<g ref="char:EOLhyphen"/>ing her. They congratulate her Delivery from this World, applaud her Patience in suffering the Evils of it, her Diligence in doing good, her bold Conflicts against the Assaults of many Temptations, and her Perseverance to the End of her Life. I may suppose them giving her Comfort and As<g ref="char:EOLhyphen"/>surance, and chasing away all those Fears which might be apt to invade her upon her Entrance on an unknown and untried State. They sufficiently convince her without Doubt, that she is amongst her Friends, and bring her, 'tis likely, a very kind Message and Invitation from Jesus, the Lover of Souls, and King of Heaven. They tell her of a Blissful, Glorious Place she shall be carried to, that they will bring her to the Celestial Paradice; where the Pro<g ref="char:EOLhyphen"/>phets and Apostles, Martyrs and Confessors are: All the greatest Favourites of Heaven,
+<pb n="99" facs="tcp:31057:51"/> and all the departed Souls of Pious Men dwell in perpetual Ease and Felicity. They let her know she shall see the loving Je<g ref="char:EOLhyphen"/>sus in all his Glory, she shall dwell with him for ever, and shall partake of his Glory and Happiness.</p>
+            <p>Inflam'd with these joyful Reports, and now sufficiently encouraged, she is in haste to be gone, and to see what they tell her of. And she is conveyed to Paradise, with a Motion so swift as nothing in Nature can equal it; quick enough she goes to satisfie even her own eager Desire: This Day, said the kind Jesus to a dying Penitent, thou shalt be with me in Paradice; when the Day was already far spent, and drawing towards a Conclusion: Soon then she ar<g ref="char:EOLhyphen"/>rives in that blessed Paradise, and is there graciously receiv'd by the loving Jesus, and all the happy Company of Saints rejoyce at her coming: And what it is which she there sees, what she hears, and what she feels, she her self could not tell us if she should return again; and if she could tell, we could not, with all her telling, con<g ref="char:EOLhyphen"/>ceive it. The excellent St. <hi>Paul,</hi> who had the Favour to be rapt up thither, declared, that what he was there made sensible of, was unutterable things, such as were im<g ref="char:EOLhyphen"/>possible to be spoken.</p>
+            <pb n="100" facs="tcp:31057:52"/>
+            <p> If I could look into the Celestial Temple, I might see her there, in Transports of Joy, surrounded with a Glorious Ring of Re<g ref="char:EOLhyphen"/>joycing Spirits, all engaged in the thank<g ref="char:EOLhyphen"/>ful Praises of him whom they love, and him who loves them for ever. Love and Sympathy with the Heavenly Quires, if in<g ref="char:EOLhyphen"/>deed I am a free Denizon of the <hi>Jerusalem</hi> above, should make me rejoyce at such a Thought, with them that do rejoyce there. How unsuitable is it that I should immode<g ref="char:EOLhyphen"/>rately grieve for the Death of her whom I lov'd, when she is gone to inhabit a Joy unspeakable and glorious: While I am mourning for her Death, she is giving Thanks for it; she is overjoy'd to think that it is over with her, and she has finish'd that her last and worst Conflict with the Enemy of her Salvation. How happy soe<g ref="char:EOLhyphen"/>ver her Condition was on Earth, it is much happier now, and in perfect Rest and Secu<g ref="char:EOLhyphen"/>rity she enjoys her Happiness. The Place and Condition she is in, are represented in the Divine Writings, by all that is great, pleasant, and glorious in this World; but we are also told there, that all these Re<g ref="char:EOLhyphen"/>presentations fall short of it. I cannot know then, how happy she is, till I go to see; and that must be now the Care that engages me. With all my Sorrow, with all my vain Wishes, I cannot bring her back
+<pb n="101" facs="tcp:31057:52"/> again from thence, and I should do her the greatest Diskindness if I could: I must then, if I am truly sorry to have parted with her, be earnestly concern'd to meet her again, as soon as it shall please God to give me leave to go hence too. If I steadily persevere in the Paths of Piety and Virtue which she kept, I shall not fail to come to the same happy End.</p>
+            <p>That I may do so, I do resolve, and will endeavour to be diligent in the Duties which the Great Sovereign of the World now gives me to do; I will set my self, to bear, with due Patience, the Afflictions that shall exercise me: I will earnestly con<g ref="char:EOLhyphen"/>cern my self to serve and promote the Glo<g ref="char:EOLhyphen"/>ry of God among Men, and to do all the good Offices to the World that I can: And I will, as often as I think of this lov'd Per<g ref="char:EOLhyphen"/>son who is gone before, excite my self to these things, in Consideration that this Course will bring me to dwell with her again. Thus I may make some Advantage of my Loss, and derive some Benefit from my Affliction.</p>
+            <p>And if I make such Resolutions as these, and perform them; then I may promise my self, in a little time, to see her, who is now gone from me, again. I shall meet her where the Spirits of Just Men are made perfect: Where all irregular Passions are
+<pb n="102" facs="tcp:31057:53"/> perfectly removed; where we shall never in the least misunderstand, never conceive the least displeasure against one another. Where we shall love again too, and that with an Affection more pure and more ar<g ref="char:EOLhyphen"/>dent than before. Where both of us shall be more happy than ever we could be here: We shall have no Griefs to communicate, no Complaints to make to one another: No Burdens or Cares to divide between us, no<g ref="char:EOLhyphen"/>thing to allay our Happiness, or damp our ravishing Joy: Where we both shall always please God, always enjoy the Expressions of his Favour; and mutually rejoyce with a redoubled Joy; each of us for our own Happiness, and for the Happiness of each other. We shall meet and dwell together; no Distance of Place shall part us there, or hinder our delightful Communion with one another: We shall be of one Family, in one sacred Temple, and in one rejoycing Quire; joyning to pay eternal Adorations, and thankful Praises to the Father, Son, and Holy Ghost. We shall never be parted again, through the whole Duration of Eter<g ref="char:EOLhyphen"/>nity.</p>
+            <p>Within a little while this happy meet<g ref="char:EOLhyphen"/>ing may be: It cannot be far off, since it will come at the End of this short Life. This then shall often entertain my Thoughts, and be my greatest Comfort in<g ref="char:EOLhyphen"/>stead
+<pb n="103" facs="tcp:31057:53"/> of her that is gone from me: That af<g ref="char:EOLhyphen"/>ter the Labours and Patience of a few Days more, a long Night of Rest to my wearied Body shall come: And my freed Soul shall fly away from this low, wretched, mortal World, to the Regions of Happiness and Glory: And there enjoy Jesus the King of Loves, this loving Soul now gone before me, and an innumerable Multitude of hap<g ref="char:EOLhyphen"/>py, glorious, and immortal Lovers and Friends. <hi>Amen.</hi>
+            </p>
+            <q>
+               <pb n="104" facs="tcp:31057:54"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="poem">
+                        <head>The Departing Soul.</head>
+                        <lg>
+                           <l>DEath does his Efforts on the Body spend;</l>
+                           <l>There they rude Havock make, but there they End.</l>
+                           <l>No Harm from all the Deathless Soul receives,</l>
+                           <l>But in sound Health she her craz'd Dwelling leaves;</l>
+                           <l>When with Aspiring Wings of Heavenly Love,</l>
+                           <l>Thus freed, she Soars to the bright Regions above.</l>
+                        </lg>
+                        <lg>
+                           <l>Kind Angels, her Celestial Kindred, come</l>
+                           <l>To Guide, and to Accompany her Home.</l>
+                           <l>With Pleasing talk they sooth their tired Guest,</l>
+                           <l>And promise her henceforth a Blissful Rest:</l>
+                           <l>They tell her she shall now repeat no more,</l>
+                           <l>The Griefs, nor Toils, so often born before.</l>
+                           <l>Her Tears shall Comfort her, and turn to Gems,</l>
+                           <l>And all her Wrongs repent to Diadems.</l>
+                           <l>They bid her Earths poor Joys she leaves behind</l>
+                           <l>Contemn; as now for Heav'ns rich Bliss design'd.</l>
+                        </lg>
+                        <lg>
+                           <l>They Praise the Glories of the Land of Light,</l>
+                           <l>To which she shall advance with hasty Flight.</l>
+                           <l>Where Joys unmix'd, and Pleasures that abide,</l>
+                           <l>And Purest Love, and Calmest Peace Reside.</l>
+                        </lg>
+                        <lg>
+                           <l>There Confessors their Joyful Hopes possess;</l>
+                           <l>And Martyrs Triumph in exalted Bliss.</l>
+                           <l>These the Vile Reffuse of the World were deem'd,</l>
+                           <l>But with wise Heav'n most highly are esteem'd.</l>
+                           <l>Through Gloomy Suff'rings, and with Weeping Eyes,</l>
+                           <l>They found the narrow Way to Paradise.</l>
+                           <pb n="105" facs="tcp:31057:54"/>
+                           <l>
+                              <hi>Their Sacred Master's Laws they did revere,</hi>
+                           </l>
+                           <l>And such a Guide to follow would not fear.</l>
+                           <l>His shameful Cross with Patience they sustain'd;</l>
+                           <l>And thus at length his Crown and Glory gain'd.</l>
+                           <l>The Prophets there with Em'nent Glory shine,</l>
+                           <l>And brave Apostles, who with Zeal Divine</l>
+                           <l>Inspir'd, the Righteous of Wisdom taught,</l>
+                           <l>And many, many Souls to Bliss have brought.</l>
+                           <l>With Joy they see their Labours good Success;</l>
+                           <l>And, with their own, enjoy their Convert's Happiness.</l>
+                           <l>These multiply the Glories of their Crown,</l>
+                           <l>And fill the spacious Heavens with their Renown.</l>
+                           <l>Of ev'ry Age and Nation some there be,</l>
+                           <l>And ev'ry Tongue, who there in one agree,</l>
+                           <l>A Numerous, Joyful, Glorious Company.</l>
+                        </lg>
+                        <lg>
+                           <l>There Pious Souls, whom Love had joyn'd below,</l>
+                           <l>Meet, and in Bliss are joyn'd for ever now.</l>
+                           <l>In happy Partnership of Joys they live,</l>
+                           <l>And never for each other more shall Grieve.</l>
+                           <l>There no Misfortune, no Mistake shall prove</l>
+                           <l>Injurious to their Mutual Joy or Love.</l>
+                           <l>No Cruel Abscence more shall them divide,</l>
+                           <l>But in each other Bless'd they do Eternally abide;</l>
+                           <l>In one another more than ever Bless'd,</l>
+                           <l>As now in Merit, and in Love increas'd.</l>
+                        </lg>
+                        <lg>
+                           <l>Angels that view the Radiant <hi>Face</hi> of Love,</l>
+                           <l>And thence their Glory and their Love improve.</l>
+                           <l>With their bright Presence often will increase</l>
+                           <l>The Glory there, and with their Love the Bliss.</l>
+                           <l>These, skillful in the pleasant Art of Praise,</l>
+                           <l>Teach the glad Saints with more Delight their Songs to raise.</l>
+                        </lg>
+                        <lg>
+                           <l>But, more to her Delight, they largely sing</l>
+                           <l>The Loves and Glories of the Heav'nly King!</l>
+                           <pb n="106" facs="tcp:31057:55"/>
+                           <l>
+                              <hi>Jesus, the Prince of Loves, they Celebrate,</hi>
+                           </l>
+                           <l>And tell her of her Friend's Exalted State!</l>
+                           <l>How he aloft enthron'd at God's right Hand,</l>
+                           <l>Has all that is in Heaven at his Command!</l>
+                           <l>They strive to tell how kindly he receives</l>
+                           <l>Pure Souls, and what his wond'rous Bounty gives!</l>
+                           <l>Of bless'd Abodes they sing, and lasting Day,</l>
+                           <l>Adorn'd with this Bright Sun's Eternal Ray!</l>
+                           <l>Of Glorious Crowns bestow'd, and Robes of Light,</l>
+                           <l>And Favours Numberless, that yield unspeakable Delight.</l>
+                        </lg>
+                        <lg>
+                           <l>He her Arrival waits, they say, to prove</l>
+                           <l>To her the Bounties of his Royal Love.</l>
+                        </lg>
+                        <lg>
+                           <l>With these Reports they Charm her Doubtful Fears,</l>
+                           <l>And she his Glory learns, and Love, by theirs.</l>
+                           <l>Ardent to see, she'll now no longer stay,</l>
+                           <l>But her Conductor's Trusts and Wings away;</l>
+                           <l>To Heaven advancing, and so swift they fly,</l>
+                           <l>As with her fierce Desire does now comply.</l>
+                           <l>Where come, she finds the Blissful Glory more,</l>
+                           <l>Than, even, experienc'd Angels told before.</l>
+                        </lg>
+                        <lg>
+                           <l>Round her amaz'd, she casts her greedy Eye,</l>
+                           <l>And Beauty meets in all and Harmony:</l>
+                           <l>Delightful Wonders ev'ry where beholds,</l>
+                           <l>And Pleasure feels which never can be told.</l>
+                        </lg>
+                        <lg>
+                           <l>Bright Souls in numerous Throngs approach to see,</l>
+                           <l>And welcome her to their bless'd Company.</l>
+                           <l>Whose coming adds fresh matter to their Joy,</l>
+                           <l>And does a whole Choires thankful Songs employ.</l>
+                           <l>And Glorious Seraphim Congratulate</l>
+                           <l>Her safe Arrival to this Happy State.</l>
+                           <l>Grateful to all, she her Advancement sees,</l>
+                           <l>Which adds to her own Joy with vast increase.</l>
+                           <pb n="107" facs="tcp:31057:55"/>
+                           <l>
+                              <hi>While to Heav'ns King she low Obeisance makes,</hi>
+                           </l>
+                           <l>And from him a bright Crown of Glory takes.</l>
+                           <l>Bless'd Partner of my Yoke and Cross (says he)</l>
+                           <l>Thou Partner of thy Master's Joy shalt be.</l>
+                           <l>On Earth with Pious Cares, and Labours prest,</l>
+                           <l>Enjoy thou, here, an Everlasting Rest.</l>
+                           <l>No Danger shall thy Happy Rest annoy,</l>
+                           <l>Nor Trouble interrupt thy lasting Joy.</l>
+                           <l>With us thou shalt abide for ever now,</l>
+                           <l>Ever possess'd of all that we bestow.</l>
+                           <l>And for thy Body, let no Anxious Fear</l>
+                           <l>Disquiet thee, for that shall be our Care;</l>
+                           <l>Out of Harms reach it does securely sleep,</l>
+                           <l>And we will every precious Attom keep:</l>
+                           <l>Till by our Pow'r awak'd it shall revive,</l>
+                           <l>With us in Immortality to live.</l>
+                           <l>And from the homely Dust advanc'd, shall shine</l>
+                           <l>With Beauties and Perfections all Divine.</l>
+                        </lg>
+                        <lg>
+                           <l>Thus, in kind Language he his Love doth dress;</l>
+                           <l>And Infinitely more in Looks express.</l>
+                        </lg>
+                        <lg>
+                           <l>Transported then, she strives in Rapturous Strains,</l>
+                           <l>Her great Celestial Lovers worthy Praise,</l>
+                           <l>High as she can, with singing Choires to raise:</l>
+                           <l>And in Eternal Extasie of Joy remains.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Be pleased, Sir, to accept this small Testi<g ref="char:EOLhyphen"/>mony of my Affections and Respects; and permit me to subscribe,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <lb/>
+               <signed>
+                  <hi>Your Affectionate<lb/> and Humble Servant</hi>
+                  <lb/> T. D.</signed>
+               <dateline>London,<lb/>
+                  <date>Feb. 13. 1694/5.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:31057:56"/>
+            <list>
+               <head>
+                  <hi>Books Printed for</hi> John Wyat <hi>at the</hi> Rose <hi>in St.</hi> Paul<hi>'s Church-yard.</hi>
+               </head>
+               <item>FAmily Devotions for Sunday-Evenings throughout the Year: Being Practical Discourses with Suitable Prayers, Vol. 1. 2. Containing each Thirteen Sermons. The other two, intended to make a Set for the whole Year, will very speedily be published together. By <hi>Theophilus Dorrington.</hi>
+               </item>
+               <item>The Compleat Mother: Or an Earnest Perswasive to all Mothers (especially those of Rank and Quality) to Nurse their own Children. By <hi>Henry Newcome</hi> M. A. and Rector of <hi>Tattenhall</hi> near <hi>West-Chester.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Now in the Press.</head>
+               <item>The Excellent Woman, described by her True Characters, and their Opposites. Being a Just and Instructive Representation of the Vertues and Vices of the Sex: And Illustrated with the most Remarkable Instances in Ancient and Modern Histories. In two Parts.</item>
+               <item>A Discourse concerning the Authority, Stile and Perfection of the Books of the Old and New Testament, Vol. III. Treating of the Excellency and Perfection of the Holy Scripture. By <hi>John Edwards</hi> B. D.</item>
+               <pb facs="tcp:31057:56"/>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
